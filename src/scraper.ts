@@ -1,3 +1,5 @@
+/* This script scrapes information about ERC20 tokens from https://etherscan.io/tokens */
+
 import fs from 'fs';
 import tress from 'tress';
 import needle from 'needle';

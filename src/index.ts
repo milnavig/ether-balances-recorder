@@ -3,13 +3,6 @@ dotenv.config();
 import fs from 'fs';
 import Web3 from 'web3';
 
-/*
-import Scraper from './scraper';
-
-const scraper = new Scraper();
-scraper.start();
-*/
-
 //let web3 = new Web3("https://cloudflare-eth.com");
 const web3 = new Web3(new Web3.providers.HttpProvider(process.env.PROVIDER!));
 
@@ -25,7 +18,8 @@ interface TokenBalance {
 }
 
 const abiArrayToken = JSON.parse(fs.readFileSync('./src/assets/abi.json', 'utf-8')); // ABI for the ERC20 token standard
-const ethTokens: Token[] = JSON.parse(fs.readFileSync('./src/assets/data-tokens.json', 'utf-8')); // parse JSON list with ERC20 tokens
+const ethTokens: Token[] = JSON.parse(fs.readFileSync('./src/assets/data-tokens.json', 'utf-8')); // parse JSON list with ERC20 tokens from https://etherscan.io/tokens
+ethTokens.push(...JSON.parse(fs.readFileSync('./src/assets/additional-tokens.json', 'utf-8'))); // push array list with additional tokens
 
 /**
  * @param { Token[] } tokens - List of all ERC20 tokens
@@ -33,7 +27,7 @@ const ethTokens: Token[] = JSON.parse(fs.readFileSync('./src/assets/data-tokens.
  */
 function getBalance(tokens: Token[]): Promise<void> {
     const promises: Promise<void>[] = [];
-    const results: TokenBalance[] = []; // here we push all tokens and their balances
+    const results: TokenBalance[] = []; // here we push all tokens with their balances
 
     return new Promise((resolve, reject) => {
         if (!tokens.length) {

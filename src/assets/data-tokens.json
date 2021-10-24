@@ -170,14 +170,14 @@
         "decimal": 8
     },
     {
-        "name": "GoldenRatio",
-        "address": "0xb83Cd8d39462B761bb0092437d38b37812dd80A2",
-        "decimal": 18
-    },
-    {
         "name": "YoloCash",
         "address": "0x21d5678a62dfe63a47062469ebb2fac2817d8832",
         "decimal": 8
+    },
+    {
+        "name": "GoldenRatio",
+        "address": "0xb83Cd8d39462B761bb0092437d38b37812dd80A2",
+        "decimal": 18
     },
     {
         "name": "Sonder",
@@ -187,11 +187,6 @@
     {
         "name": "Okschain Token",
         "address": "0x7b68d272eda2185ea2f9283f241b1c44c51e712a",
-        "decimal": 18
-    },
-    {
-        "name": "Ccore",
-        "address": "0x679badc551626e01b23ceecefbc9b877ea18fc46",
         "decimal": 18
     },
     {
@@ -225,14 +220,19 @@
         "decimal": 4
     },
     {
+        "name": "XPlay",
+        "address": "0x90528aeb3a2b736b780fd1b6c478bb7e1d643170",
+        "decimal": 18
+    },
+    {
         "name": "Data Transaction Token",
         "address": "0x24dcc881e7dd730546834452f21872d5cb4b5293",
         "decimal": 18
     },
     {
-        "name": "XPlay",
-        "address": "0x90528aeb3a2b736b780fd1b6c478bb7e1d643170",
-        "decimal": 18
+        "name": "Alpha Coin",
+        "address": "0x15bda08c3afbf5955d6e9b235fd55a1fd0dbc829",
+        "decimal": 6
     },
     {
         "name": "Incodium",
@@ -255,6 +255,11 @@
         "decimal": 18
     },
     {
+        "name": "Ccore",
+        "address": "0x679badc551626e01b23ceecefbc9b877ea18fc46",
+        "decimal": 18
+    },
+    {
         "name": "CyberMusic",
         "address": "0x78c292d1445e6b9558bf42e8bc369271ded062ea",
         "decimal": 8
@@ -265,18 +270,23 @@
         "decimal": 8
     },
     {
-        "name": "EvenCoin",
-        "address": "0x68909e586eeac8f47315e84b4c9788dd54ef65bb",
-        "decimal": 18
-    },
-    {
         "name": "JSE Token",
         "address": "0x2d184014b5658c453443aa87c8e9c4d57285620b",
         "decimal": 18
     },
     {
+        "name": "HeartBout",
+        "address": "0x877c7deb5eb1fc5faad30c71e3a6e39dc8b1519f",
+        "decimal": 18
+    },
+    {
         "name": "4NEW",
         "address": "0x241ba672574a78a3a604cdd0a94429a73a84a324",
+        "decimal": 18
+    },
+    {
+        "name": "EvenCoin",
+        "address": "0x68909e586eeac8f47315e84b4c9788dd54ef65bb",
         "decimal": 18
     },
     {
@@ -303,11 +313,6 @@
         "name": "FUTURAX",
         "address": "0x41875c2332b0877cdfaa699b641402b7d4642c32",
         "decimal": 8
-    },
-    {
-        "name": "Alpha Coin",
-        "address": "0x15bda08c3afbf5955d6e9b235fd55a1fd0dbc829",
-        "decimal": 6
     },
     {
         "name": "Webcoin",
@@ -340,9 +345,9 @@
         "decimal": 18
     },
     {
-        "name": "HeartBout",
-        "address": "0x877c7deb5eb1fc5faad30c71e3a6e39dc8b1519f",
-        "decimal": 18
+        "name": "Suretly",
+        "address": "0xe120c1ecbfdfea7f0a8f0ee30063491e8c26fedf",
+        "decimal": 8
     },
     {
         "name": "Worldcore",
@@ -353,6 +358,11 @@
         "name": "Horse",
         "address": "0x5b0751713b2527d7f002c0c4e2a37e1219610a6b",
         "decimal": 18
+    },
+    {
+        "name": "Ether Kingdoms Token",
+        "address": "0x48ff53777f747cfb694101222a944de070c15d36",
+        "decimal": 7
     },
     {
         "name": "PRG",
@@ -370,18 +380,13 @@
         "decimal": 18
     },
     {
-        "name": "HELP",
-        "address": "0xbbc2045d335cb224228f1850b29173d9d7d7b989",
-        "decimal": 18
-    },
-    {
         "name": "Privatix",
         "address": "0x3adfc4999f77d04c8341bac5f3a76f58dff5b37a",
         "decimal": 8
     },
     {
-        "name": "MetaMorph",
-        "address": "0xfef3884b603c33ef8ed4183346e093a173c94da6",
+        "name": "HELP",
+        "address": "0xbbc2045d335cb224228f1850b29173d9d7d7b989",
         "decimal": 18
     },
     {
@@ -390,14 +395,14 @@
         "decimal": 18
     },
     {
-        "name": "Proton Token",
-        "address": "0x4689a4e169eb39cc9078c0940e21ff1aa8a39b9c",
+        "name": "MetaMorph",
+        "address": "0xfef3884b603c33ef8ed4183346e093a173c94da6",
         "decimal": 18
     },
     {
-        "name": "Ether Kingdoms Token",
-        "address": "0x48ff53777f747cfb694101222a944de070c15d36",
-        "decimal": 7
+        "name": "Proton Token",
+        "address": "0x4689a4e169eb39cc9078c0940e21ff1aa8a39b9c",
+        "decimal": 18
     },
     {
         "name": "Hurify Token",
@@ -410,24 +415,19 @@
         "decimal": 18
     },
     {
-        "name": "POPCHAIN CASH",
-        "address": "0xe3f4b4a5d91e5cb9435b947f090a319737036312",
-        "decimal": 18
-    },
-    {
         "name": "Bionic",
         "address": "0xef51c9377feb29856e61625caf9390bd0b67ea18",
         "decimal": 8
     },
     {
-        "name": "UChain Token",
-        "address": "0xaaf37055188feee4869de63464937e683d61b2a1",
+        "name": "POPCHAIN CASH",
+        "address": "0xe3f4b4a5d91e5cb9435b947f090a319737036312",
         "decimal": 18
     },
     {
-        "name": "Suretly",
-        "address": "0xe120c1ecbfdfea7f0a8f0ee30063491e8c26fedf",
-        "decimal": 8
+        "name": "UChain Token",
+        "address": "0xaaf37055188feee4869de63464937e683d61b2a1",
+        "decimal": 18
     },
     {
         "name": "CoinBene Coin",
@@ -470,23 +470,18 @@
         "decimal": 18
     },
     {
-        "name": "Aditus",
-        "address": "0x8810c63470d38639954c6b41aac545848c46484a",
-        "decimal": 18
-    },
-    {
         "name": "WABnetwork",
         "address": "0x4bbbc57af270138ef2ff2c50dbfad684e9e0e604",
         "decimal": 18
     },
     {
-        "name": "LALA",
-        "address": "0xfd107b473ab90e8fbd89872144a3dc92c40fa8c9",
+        "name": "Aditus",
+        "address": "0x8810c63470d38639954c6b41aac545848c46484a",
         "decimal": 18
     },
     {
-        "name": "FOTA",
-        "address": "0x4270bb238f6dd8b1c3ca01f96ca65b2647c06d3c",
+        "name": "LALA",
+        "address": "0xfd107b473ab90e8fbd89872144a3dc92c40fa8c9",
         "decimal": 18
     },
     {
@@ -510,6 +505,11 @@
         "decimal": 18
     },
     {
+        "name": "FOTA",
+        "address": "0x4270bb238f6dd8b1c3ca01f96ca65b2647c06d3c",
+        "decimal": 18
+    },
+    {
         "name": "Kind Ads Token",
         "address": "0x4618519de4c304f3444ffa7f812dddc2971cc688",
         "decimal": 8
@@ -525,13 +525,13 @@
         "decimal": 8
     },
     {
-        "name": "QUINADS",
-        "address": "0x86e44543164d9b97b14ef7f6f3ab7ba670cab346",
+        "name": "IG",
+        "address": "0x8a88f04e0c905054d2f33b26bb3a46d7091a039a",
         "decimal": 18
     },
     {
-        "name": "IG",
-        "address": "0x8a88f04e0c905054d2f33b26bb3a46d7091a039a",
+        "name": "QUINADS",
+        "address": "0x86e44543164d9b97b14ef7f6f3ab7ba670cab346",
         "decimal": 18
     },
     {
@@ -555,19 +555,14 @@
         "decimal": 8
     },
     {
-        "name": "Mobile Integrated Blockchain",
-        "address": "0x146d8d942048ad517479c9bab1788712af180fde",
-        "decimal": 18
-    },
-    {
         "name": "GoToken",
         "address": "0x423b5f62b328d0d6d44870f4eee316befa0b2df5",
         "decimal": 18
     },
     {
-        "name": "Crowd Machine Compute Token",
-        "address": "0x47bc01597798dcd7506dcca36ac4302fc93a8cfb",
-        "decimal": 8
+        "name": "Mobile Integrated Blockchain",
+        "address": "0x146d8d942048ad517479c9bab1788712af180fde",
+        "decimal": 18
     },
     {
         "name": "Welltrado token",
@@ -580,14 +575,19 @@
         "decimal": 18
     },
     {
+        "name": "Crowd Machine Compute Token",
+        "address": "0x47bc01597798dcd7506dcca36ac4302fc93a8cfb",
+        "decimal": 8
+    },
+    {
         "name": "SkinCoin",
         "address": "0x2bdc0d42996017fce214b21607a515da41a9e0c5",
         "decimal": 6
     },
     {
-        "name": "BoutsPro",
-        "address": "0x139d9397274bb9e2c29a9aa8aa0b5874d30d62e3",
-        "decimal": 18
+        "name": "PromotionCoin",
+        "address": "0xa6714a2e5f0b1bdb97b895b0913b4fcd3a775e4d",
+        "decimal": 5
     },
     {
         "name": "savedroid",
@@ -595,14 +595,14 @@
         "decimal": 18
     },
     {
-        "name": "HeroNodeToken",
-        "address": "0x491c9a23db85623eed455a8efdd6aba9b911c5df",
+        "name": "BoutsPro",
+        "address": "0x139d9397274bb9e2c29a9aa8aa0b5874d30d62e3",
         "decimal": 18
     },
     {
-        "name": "PromotionCoin",
-        "address": "0xa6714a2e5f0b1bdb97b895b0913b4fcd3a775e4d",
-        "decimal": 5
+        "name": "HeroNodeToken",
+        "address": "0x491c9a23db85623eed455a8efdd6aba9b911c5df",
+        "decimal": 18
     },
     {
         "name": "Tokenbox",
@@ -625,13 +625,13 @@
         "decimal": 18
     },
     {
-        "name": "AiLink Token",
-        "address": "0x4289c043a12392f1027307fb58272d8ebd853912",
+        "name": "TESLA",
+        "address": "0x03806ce5ef69bd9780edfb04c29da1f23db96294",
         "decimal": 18
     },
     {
-        "name": "TESLA",
-        "address": "0x03806ce5ef69bd9780edfb04c29da1f23db96294",
+        "name": "AiLink Token",
+        "address": "0x4289c043a12392f1027307fb58272d8ebd853912",
         "decimal": 18
     },
     {
@@ -643,6 +643,11 @@
         "name": "RightMesh Token",
         "address": "0x8d5682941ce456900b12d47ac06a88b47c764ce1",
         "decimal": 18
+    },
+    {
+        "name": "Berry",
+        "address": "0x6aeb95f06cda84ca345c2de0f3b7f96923a44f4c",
+        "decimal": 14
     },
     {
         "name": "ICE ROCK MINING",
@@ -660,13 +665,8 @@
         "decimal": 18
     },
     {
-        "name": "InterValue",
-        "address": "0xdac4ae188ace3c8985765edc6c9b4739d4845ddc",
-        "decimal": 18
-    },
-    {
-        "name": "Devery.io",
-        "address": "0x923108a439c4e8c2315c4f6521e5ce95b44e9b4c",
+        "name": "Bounty0x",
+        "address": "0xd2d6158683aee4cc838067727209a0aaf4359de3",
         "decimal": 18
     },
     {
@@ -675,8 +675,13 @@
         "decimal": 8
     },
     {
-        "name": "Bounty0x",
-        "address": "0xd2d6158683aee4cc838067727209a0aaf4359de3",
+        "name": "InterValue",
+        "address": "0xdac4ae188ace3c8985765edc6c9b4739d4845ddc",
+        "decimal": 18
+    },
+    {
+        "name": "Devery.io",
+        "address": "0x923108a439c4e8c2315c4f6521e5ce95b44e9b4c",
         "decimal": 18
     },
     {
@@ -690,13 +695,8 @@
         "decimal": 18
     },
     {
-        "name": "Berry",
-        "address": "0x6aeb95f06cda84ca345c2de0f3b7f96923a44f4c",
-        "decimal": 14
-    },
-    {
-        "name": "FuzeX",
-        "address": "0x1829aa045e21e0d59580024a951db48096e01782",
+        "name": "Bezop",
+        "address": "0x8a1e3930fde1f151471c368fdbb39f3f63a65b55",
         "decimal": 18
     },
     {
@@ -705,8 +705,8 @@
         "decimal": 18
     },
     {
-        "name": "NOAHCOIN",
-        "address": "0x58a4884182d9e835597f405e5f258290e46ae7c2",
+        "name": "FuzeX",
+        "address": "0x1829aa045e21e0d59580024a951db48096e01782",
         "decimal": 18
     },
     {
@@ -715,13 +715,28 @@
         "decimal": 18
     },
     {
-        "name": "Bezop",
-        "address": "0x8a1e3930fde1f151471c368fdbb39f3f63a65b55",
+        "name": "Transcodium",
+        "address": "0xb0280743b44bf7db4b6be482b2ba7b75e5da096c",
         "decimal": 18
+    },
+    {
+        "name": "Typerium",
+        "address": "0xeaf61fc150cd5c3bea75744e830d916e60ea5a9f",
+        "decimal": 4
     },
     {
         "name": "SwarmCity",
         "address": "0xb9e7f8568e08d5659f5d29c4997173d84cdf2607",
+        "decimal": 18
+    },
+    {
+        "name": "BCDN",
+        "address": "0x1e797Ce986C3CFF4472F7D38d5C4aba55DfEFE40",
+        "decimal": 15
+    },
+    {
+        "name": "Elycoin",
+        "address": "0xa95592dcffa3c080b4b40e459c5f5692f67db7f8",
         "decimal": 18
     },
     {
@@ -745,6 +760,16 @@
         "decimal": 18
     },
     {
+        "name": "ABX Token",
+        "address": "0x9a794dc1939f1d78fa48613b89b8f9d0a20da00e",
+        "decimal": 18
+    },
+    {
+        "name": "NOAHCOIN",
+        "address": "0x58a4884182d9e835597f405e5f258290e46ae7c2",
+        "decimal": 18
+    },
+    {
         "name": "UNIFUND",
         "address": "0x04B5E13000C6e9A3255Dc057091F3e3Eeee7b0f0",
         "decimal": 18
@@ -760,16 +785,6 @@
         "decimal": 8
     },
     {
-        "name": "Typerium",
-        "address": "0xeaf61fc150cd5c3bea75744e830d916e60ea5a9f",
-        "decimal": 4
-    },
-    {
-        "name": "Elycoin",
-        "address": "0xa95592dcffa3c080b4b40e459c5f5692f67db7f8",
-        "decimal": 18
-    },
-    {
         "name": "UnikoinGold",
         "address": "0x24692791bc444c5cd0b81e3cbcaba4b04acd1f3b",
         "decimal": 18
@@ -780,23 +795,8 @@
         "decimal": 18
     },
     {
-        "name": "ABX Token",
-        "address": "0x9a794dc1939f1d78fa48613b89b8f9d0a20da00e",
-        "decimal": 18
-    },
-    {
-        "name": "BCDN",
-        "address": "0x1e797Ce986C3CFF4472F7D38d5C4aba55DfEFE40",
-        "decimal": 15
-    },
-    {
         "name": "Traxia Membership Token",
         "address": "0x3209f98bebf0149b769ce26d71f7aea8e435efea",
-        "decimal": 18
-    },
-    {
-        "name": "Hms Token",
-        "address": "0xAa0bb10CEc1fa372eb3Abc17C933FC6ba863DD9E",
         "decimal": 18
     },
     {
@@ -810,13 +810,28 @@
         "decimal": 0
     },
     {
-        "name": "Niobium",
-        "address": "0x9f195617fa8fbad9540c5d113a99a0a0172aaedc",
+        "name": "Hms Token",
+        "address": "0xAa0bb10CEc1fa372eb3Abc17C933FC6ba863DD9E",
         "decimal": 18
+    },
+    {
+        "name": "SNGLS",
+        "address": "0xaec2e87e0a235266d9c5adc9deb4b2e29b54d009",
+        "decimal": 0
     },
     {
         "name": "Pepedex",
         "address": "0xf1F508c7C9f0d1b15a76fbA564eEf2d956220cf7",
+        "decimal": 18
+    },
+    {
+        "name": "Ethereum Gold",
+        "address": "0x28c8d01ff633ea9cd8fc6a451d7457889e698de6",
+        "decimal": 0
+    },
+    {
+        "name": "Niobium",
+        "address": "0x9f195617fa8fbad9540c5d113a99a0a0172aaedc",
         "decimal": 18
     },
     {
@@ -825,23 +840,18 @@
         "decimal": 18
     },
     {
+        "name": "RvT",
+        "address": "0x3d1ba9be9f66b8ee101911bc36d3fb562eac2244",
+        "decimal": 18
+    },
+    {
         "name": "PayFair Token",
         "address": "0xb41422d5a1d5d5c73c229686935b40f881502785",
         "decimal": 8
     },
     {
-        "name": "SNGLS",
-        "address": "0xaec2e87e0a235266d9c5adc9deb4b2e29b54d009",
-        "decimal": 0
-    },
-    {
         "name": "TieToken",
         "address": "0x999967e2ec8a74b7c8e9db19e039d920b31d39d0",
-        "decimal": 18
-    },
-    {
-        "name": "RvT",
-        "address": "0x3d1ba9be9f66b8ee101911bc36d3fb562eac2244",
         "decimal": 18
     },
     {
@@ -850,8 +860,18 @@
         "decimal": 18
     },
     {
+        "name": "Stox",
+        "address": "0x006bea43baa3f7a6f765f14f10a1a1b08334ef45",
+        "decimal": 18
+    },
+    {
         "name": "EZOOW",
         "address": "0x78a2a1029e3168b49d3a276c787050ff5106dcf2",
+        "decimal": 18
+    },
+    {
+        "name": "Covalent Token",
+        "address": "0xb37a769b37224449d92aac57de379e1267cd3b00",
         "decimal": 18
     },
     {
@@ -865,13 +885,8 @@
         "decimal": 18
     },
     {
-        "name": "Ethereum Gold",
-        "address": "0x28c8d01ff633ea9cd8fc6a451d7457889e698de6",
-        "decimal": 0
-    },
-    {
-        "name": "Covalent Token",
-        "address": "0xb37a769b37224449d92aac57de379e1267cd3b00",
+        "name": "Ink Protocol",
+        "address": "0xbc86727e770de68b1060c91f6bb6945c73e10388",
         "decimal": 18
     },
     {
@@ -880,23 +895,18 @@
         "decimal": 8
     },
     {
-        "name": "ChartEx",
-        "address": "0x1d37986f252d0e349522ea6c3b98cb935495e63e",
-        "decimal": 18
-    },
-    {
         "name": "Vikky Token",
         "address": "0xd2946be786f35c3cc402c29b323647abda799071",
         "decimal": 8
     },
     {
-        "name": "Ink Protocol",
-        "address": "0xbc86727e770de68b1060c91f6bb6945c73e10388",
+        "name": "ChartEx",
+        "address": "0x1d37986f252d0e349522ea6c3b98cb935495e63e",
         "decimal": 18
     },
     {
-        "name": "Work Quest Token",
-        "address": "0x06677dc4fe12d3ba3c7ccfd0df8cd45e4d4095bf",
+        "name": "BLOCKMASON CREDIT PROTOCOL TOKEN",
+        "address": "0x1c4481750daa5ff521a2a7490d9981ed46465dbd",
         "decimal": 18
     },
     {
@@ -905,19 +915,9 @@
         "decimal": 4
     },
     {
-        "name": "Transcodium",
-        "address": "0xb0280743b44bf7db4b6be482b2ba7b75e5da096c",
-        "decimal": 18
-    },
-    {
         "name": "renBCH",
         "address": "0x459086f2376525bdceba5bdda135e4e9d3fef5bf",
         "decimal": 8
-    },
-    {
-        "name": "BLOCKMASON CREDIT PROTOCOL TOKEN",
-        "address": "0x1c4481750daa5ff521a2a7490d9981ed46465dbd",
-        "decimal": 18
     },
     {
         "name": "Couchain",
@@ -925,23 +925,13 @@
         "decimal": 18
     },
     {
-        "name": "HelloGold",
-        "address": "0xba2184520a1cc49a6159c57e61e1844e085615b6",
-        "decimal": 8
+        "name": "Work Quest Token",
+        "address": "0x06677dc4fe12d3ba3c7ccfd0df8cd45e4d4095bf",
+        "decimal": 18
     },
     {
         "name": "TrueDeck",
         "address": "0x5b11aacb6bddb9ffab908fdce739bf4aed554327",
-        "decimal": 18
-    },
-    {
-        "name": "Stox",
-        "address": "0x006bea43baa3f7a6f765f14f10a1a1b08334ef45",
-        "decimal": 18
-    },
-    {
-        "name": "Jetcoin",
-        "address": "0x8727c112c712c4a03371ac87a74dd6ab104af768",
         "decimal": 18
     },
     {
@@ -955,16 +945,6 @@
         "decimal": 18
     },
     {
-        "name": "MIS",
-        "address": "0x4b4d2e899658fb59b1d518b68fe836b100ee8958",
-        "decimal": 18
-    },
-    {
-        "name": "Po.et",
-        "address": "0x0e0989b1f9b8a38983c2ba8053269ca62ec9b195",
-        "decimal": 8
-    },
-    {
         "name": "Bundles",
         "address": "0x8D3E855f3f55109D473735aB76F753218400fe96",
         "decimal": 18
@@ -973,6 +953,21 @@
         "name": "SPINDLE",
         "address": "0x1dea979ae76f26071870f824088da78979eb91c8",
         "decimal": 18
+    },
+    {
+        "name": "MIS",
+        "address": "0x4b4d2e899658fb59b1d518b68fe836b100ee8958",
+        "decimal": 18
+    },
+    {
+        "name": "EduCoin",
+        "address": "0xf263292e14d9d8ecd55b58dad1f1df825a874b7c",
+        "decimal": 18
+    },
+    {
+        "name": "Po.et",
+        "address": "0x0e0989b1f9b8a38983c2ba8053269ca62ec9b195",
+        "decimal": 8
     },
     {
         "name": "STK",
@@ -1000,11 +995,6 @@
         "decimal": 18
     },
     {
-        "name": "EduCoin",
-        "address": "0xf263292e14d9d8ecd55b58dad1f1df825a874b7c",
-        "decimal": 18
-    },
-    {
         "name": "Sharpay",
         "address": "0x96b0bf939d9460095c15251f71fda11e41dcbddb",
         "decimal": 18
@@ -1015,18 +1005,23 @@
         "decimal": 18
     },
     {
-        "name": "EchoLink",
-        "address": "0xa6a840e50bcaa50da017b91a0d86b8b2d41156ee",
-        "decimal": 18
-    },
-    {
         "name": "Fire Lotto",
         "address": "0x049399a6b048d52971f7d122ae21a1532722285f",
         "decimal": 18
     },
     {
-        "name": "ZeusShieldCoin",
-        "address": "0x7A41e0517a5ecA4FdbC7FbebA4D4c47B9fF6DC63",
+        "name": "HelloGold",
+        "address": "0xba2184520a1cc49a6159c57e61e1844e085615b6",
+        "decimal": 8
+    },
+    {
+        "name": "Jetcoin",
+        "address": "0x8727c112c712c4a03371ac87a74dd6ab104af768",
+        "decimal": 18
+    },
+    {
+        "name": "EchoLink",
+        "address": "0xa6a840e50bcaa50da017b91a0d86b8b2d41156ee",
         "decimal": 18
     },
     {
@@ -1040,38 +1035,8 @@
         "decimal": 18
     },
     {
-        "name": "PalletOneToken",
-        "address": "0xfe76be9cec465ed3219a9972c21655d57d21aec6",
-        "decimal": 18
-    },
-    {
-        "name": "Chi Gastoken by 1inch",
-        "address": "0x0000000000004946c0e9F43F4Dee607b0eF1fA1c",
-        "decimal": 0
-    },
-    {
-        "name": "WIKI Token",
-        "address": "0x66bad545596fb17a0b4ebdc003a85def10e8f6ae",
-        "decimal": 18
-    },
-    {
-        "name": "DATx",
-        "address": "0xabbbb6447b68ffd6141da77c18c7b5876ed6c5ab",
-        "decimal": 18
-    },
-    {
-        "name": "Themis",
-        "address": "0x60c68a87be1e8a84144b543aacfa77199cd3d024",
-        "decimal": 18
-    },
-    {
-        "name": "smartshare token",
-        "address": "0x624d520bab2e4ad83935fa503fb130614374e850",
-        "decimal": 4
-    },
-    {
-        "name": "Rate3",
-        "address": "0x436f0f3a982074c4a05084485d421466a994fe53",
+        "name": "ZeusShieldCoin",
+        "address": "0x7A41e0517a5ecA4FdbC7FbebA4D4c47B9fF6DC63",
         "decimal": 18
     },
     {
@@ -1080,8 +1045,38 @@
         "decimal": 18
     },
     {
-        "name": "Vodi X",
-        "address": "0x91e64f39c1fe14492e8fdf5a8b0f305bd218c8a1",
+        "name": "PalletOneToken",
+        "address": "0xfe76be9cec465ed3219a9972c21655d57d21aec6",
+        "decimal": 18
+    },
+    {
+        "name": "WIKI Token",
+        "address": "0x66bad545596fb17a0b4ebdc003a85def10e8f6ae",
+        "decimal": 18
+    },
+    {
+        "name": "smartshare token",
+        "address": "0x624d520bab2e4ad83935fa503fb130614374e850",
+        "decimal": 4
+    },
+    {
+        "name": "DATx",
+        "address": "0xabbbb6447b68ffd6141da77c18c7b5876ed6c5ab",
+        "decimal": 18
+    },
+    {
+        "name": "Chi Gastoken by 1inch",
+        "address": "0x0000000000004946c0e9F43F4Dee607b0eF1fA1c",
+        "decimal": 0
+    },
+    {
+        "name": "Rate3",
+        "address": "0x436f0f3a982074c4a05084485d421466a994fe53",
+        "decimal": 18
+    },
+    {
+        "name": "Datum",
+        "address": "0x81c9151de0c8bafcd325a57e3db5a5df1cebf79c",
         "decimal": 18
     },
     {
@@ -1090,8 +1085,13 @@
         "decimal": 18
     },
     {
-        "name": "Datum",
-        "address": "0x81c9151de0c8bafcd325a57e3db5a5df1cebf79c",
+        "name": "Edgeless",
+        "address": "0x08711d3b02c8758f2fb3ab4e80228418a7f8e39c",
+        "decimal": 0
+    },
+    {
+        "name": "Themis",
+        "address": "0x60c68a87be1e8a84144b543aacfa77199cd3d024",
         "decimal": 18
     },
     {
@@ -1115,9 +1115,14 @@
         "decimal": 18
     },
     {
-        "name": "Zebi Coin",
-        "address": "0x2008e3057bd734e10ad13c9eae45ff132abc1722",
-        "decimal": 8
+        "name": "BOX Token",
+        "address": "0xe1A178B681BD05964d3e3Ed33AE731577d9d96dD",
+        "decimal": 18
+    },
+    {
+        "name": "Vodi X",
+        "address": "0x91e64f39c1fe14492e8fdf5a8b0f305bd218c8a1",
+        "decimal": 18
     },
     {
         "name": "Hacken",
@@ -1127,6 +1132,11 @@
     {
         "name": "Mothership",
         "address": "0x68AA3F232dA9bdC2343465545794ef3eEa5209BD",
+        "decimal": 18
+    },
+    {
+        "name": "DoYourTip",
+        "address": "0x740623d2c797b7D8D1EcB98e9b4Afcf99Ec31E14",
         "decimal": 18
     },
     {
@@ -1140,18 +1150,8 @@
         "decimal": 18
     },
     {
-        "name": "DoYourTip",
-        "address": "0x740623d2c797b7D8D1EcB98e9b4Afcf99Ec31E14",
-        "decimal": 18
-    },
-    {
-        "name": "BOX Token",
-        "address": "0xe1A178B681BD05964d3e3Ed33AE731577d9d96dD",
-        "decimal": 18
-    },
-    {
-        "name": "BGGToken",
-        "address": "0xea54c81fe0f72de8e86b6dc78a9271aa3925e3b5",
+        "name": "Omnitude",
+        "address": "0x171d750d42d661b62c277a6b486adb82348c3eca",
         "decimal": 18
     },
     {
@@ -1160,43 +1160,28 @@
         "decimal": 18
     },
     {
-        "name": "Omnitude",
-        "address": "0x171d750d42d661b62c277a6b486adb82348c3eca",
+        "name": "BGGToken",
+        "address": "0xea54c81fe0f72de8e86b6dc78a9271aa3925e3b5",
         "decimal": 18
     },
     {
-        "name": "OneRoot Network",
-        "address": "0xff603f43946a3a28df5e6a73172555d8c8b02386",
-        "decimal": 18
-    },
-    {
-        "name": "Edgeless",
-        "address": "0x08711d3b02c8758f2fb3ab4e80228418a7f8e39c",
-        "decimal": 0
-    },
-    {
-        "name": "WTT",
-        "address": "0x84119cb33e8f590d75c2d6ea4e6b0741a7494eda",
-        "decimal": 0
-    },
-    {
-        "name": "BitCapitalVendorToken",
-        "address": "0x1014613e2b3cbc4d575054d4982e580d9b99d7b1",
+        "name": "Zebi Coin",
+        "address": "0x2008e3057bd734e10ad13c9eae45ff132abc1722",
         "decimal": 8
+    },
+    {
+        "name": "Ethereum Blue",
+        "address": "0x539efe69bcdd21a83efd9122571a64cc25e0282b",
+        "decimal": 8
+    },
+    {
+        "name": "GSENetwork",
+        "address": "0xe530441f4f73bdb6dc2fa5af7c3fc5fd551ec838",
+        "decimal": 4
     },
     {
         "name": "BlitzPredict",
         "address": "0x28dee01d53fed0edf5f6e310bf8ef9311513ae40",
-        "decimal": 18
-    },
-    {
-        "name": "CrowdWizToken",
-        "address": "0x2f9b6779c37df5707249eeb3734bbfc94763fbe2",
-        "decimal": 18
-    },
-    {
-        "name": "QChi",
-        "address": "0x687bfc3e73f6af55f0ccca8450114d107e781a0e",
         "decimal": 18
     },
     {
@@ -1205,33 +1190,33 @@
         "decimal": 18
     },
     {
+        "name": "BitCapitalVendorToken",
+        "address": "0x1014613e2b3cbc4d575054d4982e580d9b99d7b1",
+        "decimal": 8
+    },
+    {
+        "name": "CrowdWizToken",
+        "address": "0x2f9b6779c37df5707249eeb3734bbfc94763fbe2",
+        "decimal": 18
+    },
+    {
+        "name": "OneRoot Network",
+        "address": "0xff603f43946a3a28df5e6a73172555d8c8b02386",
+        "decimal": 18
+    },
+    {
         "name": "HYDRO TOKEN",
         "address": "0x946112efab61c3636cbd52de2e1392d7a75a6f01",
         "decimal": 18
     },
     {
-        "name": "XCELTOKEN PLUS",
-        "address": "0x8c4e7f814d40f8929f9112c5d09016f923d34472",
+        "name": "QChi",
+        "address": "0x687bfc3e73f6af55f0ccca8450114d107e781a0e",
         "decimal": 18
-    },
-    {
-        "name": "Ethereum Blue",
-        "address": "0x539efe69bcdd21a83efd9122571a64cc25e0282b",
-        "decimal": 8
     },
     {
         "name": "Fuel Token",
         "address": "0xea38eaa3c86c8f9b751533ba2e562deb9acded40",
-        "decimal": 18
-    },
-    {
-        "name": "MobileGo",
-        "address": "0x40395044Ac3c0C57051906dA938B54BD6557F212",
-        "decimal": 8
-    },
-    {
-        "name": "MT Token",
-        "address": "0x9b4e2b4b13d125238aa0480dd42b4f6fc71b37cc",
         "decimal": 18
     },
     {
@@ -1240,13 +1225,33 @@
         "decimal": 18
     },
     {
-        "name": "Cryption Network Token",
-        "address": "0x429876c4a6f89fb470e92456b8313879df98b63c",
-        "decimal": 18
+        "name": "WTT",
+        "address": "0x84119cb33e8f590d75c2d6ea4e6b0741a7494eda",
+        "decimal": 0
+    },
+    {
+        "name": "MobileGo",
+        "address": "0x40395044Ac3c0C57051906dA938B54BD6557F212",
+        "decimal": 8
     },
     {
         "name": "BANCA",
         "address": "0x998b3b82bc9dba173990be7afb772788b5acb8bd",
+        "decimal": 18
+    },
+    {
+        "name": "Decentralized Accessible Content Chain",
+        "address": "0xf8c595d070d104377f58715ce2e6c93e49a87f3c",
+        "decimal": 6
+    },
+    {
+        "name": "MT Token",
+        "address": "0x9b4e2b4b13d125238aa0480dd42b4f6fc71b37cc",
+        "decimal": 18
+    },
+    {
+        "name": "Cryption Network Token",
+        "address": "0x429876c4a6f89fb470e92456b8313879df98b63c",
         "decimal": 18
     },
     {
@@ -1255,8 +1260,8 @@
         "decimal": 18
     },
     {
-        "name": "AstroTools.io",
-        "address": "0xcbd55D4fFc43467142761A764763652b48b969ff",
+        "name": "XCELTOKEN PLUS",
+        "address": "0x8c4e7f814d40f8929f9112c5d09016f923d34472",
         "decimal": 18
     },
     {
@@ -1265,9 +1270,14 @@
         "decimal": 8
     },
     {
-        "name": "DMarket",
-        "address": "0x2ccbff3a042c68716ed2a2cb0c544a9f1d1935e1",
-        "decimal": 8
+        "name": "AstroTools.io",
+        "address": "0xcbd55D4fFc43467142761A764763652b48b969ff",
+        "decimal": 18
+    },
+    {
+        "name": "OriginSport Token",
+        "address": "0xeb9a4b185816c354db92db09cc3b50be60b901b6",
+        "decimal": 18
     },
     {
         "name": "0xcert Protocol Token",
@@ -1280,19 +1290,14 @@
         "decimal": 8
     },
     {
-        "name": "Internxt",
-        "address": "0xa8006c4ca56f24d6836727d106349320db7fef82",
+        "name": "DMarket",
+        "address": "0x2ccbff3a042c68716ed2a2cb0c544a9f1d1935e1",
         "decimal": 8
     },
     {
-        "name": "OriginSport Token",
-        "address": "0xeb9a4b185816c354db92db09cc3b50be60b901b6",
+        "name": "Substratum",
+        "address": "0x8d75959f1e61ec2571aa72798237101f084de63a",
         "decimal": 18
-    },
-    {
-        "name": "Decentralized Accessible Content Chain",
-        "address": "0xf8c595d070d104377f58715ce2e6c93e49a87f3c",
-        "decimal": 6
     },
     {
         "name": "Trustcoin",
@@ -1305,28 +1310,13 @@
         "decimal": 18
     },
     {
-        "name": "PHI Token",
-        "address": "0x13c2fab6354d3790d8ece4f0f1a3280b4a25ad96",
-        "decimal": 18
-    },
-    {
         "name": "Bethereum",
         "address": "0x14c926f2290044b647e1bf2072e67b495eff1905",
         "decimal": 18
     },
     {
-        "name": "OwnData",
-        "address": "0x170b275ced089fffaebfe927f445a350ed9160dc",
-        "decimal": 8
-    },
-    {
-        "name": "GSENetwork",
-        "address": "0xe530441f4f73bdb6dc2fa5af7c3fc5fd551ec838",
-        "decimal": 4
-    },
-    {
-        "name": "Substratum",
-        "address": "0x8d75959f1e61ec2571aa72798237101f084de63a",
+        "name": "PHI Token",
+        "address": "0x13c2fab6354d3790d8ece4f0f1a3280b4a25ad96",
         "decimal": 18
     },
     {
@@ -1335,18 +1325,13 @@
         "decimal": 18
     },
     {
-        "name": "BitDegree",
-        "address": "0x1961b3331969ed52770751fc718ef530838b6dee",
-        "decimal": 18
+        "name": "OwnData",
+        "address": "0x170b275ced089fffaebfe927f445a350ed9160dc",
+        "decimal": 8
     },
     {
         "name": "BitBall",
         "address": "0x06e0feb0d74106c7ada8497754074d222ec6bcdf",
-        "decimal": 18
-    },
-    {
-        "name": "Delphy Token",
-        "address": "0x6c2adc2073994fb2ccc5032cc2906fa221e9b391",
         "decimal": 18
     },
     {
@@ -1355,9 +1340,14 @@
         "decimal": 18
     },
     {
-        "name": "FERA",
-        "address": "0x539F3615C1dBAfa0D008d87504667458acBd16Fa",
+        "name": "Delphy Token",
+        "address": "0x6c2adc2073994fb2ccc5032cc2906fa221e9b391",
         "decimal": 18
+    },
+    {
+        "name": "Internxt",
+        "address": "0xa8006c4ca56f24d6836727d106349320db7fef82",
+        "decimal": 8
     },
     {
         "name": "Centra",
@@ -1365,14 +1355,24 @@
         "decimal": 18
     },
     {
+        "name": "DomRaiderToken",
+        "address": "0x9af4f26941677c706cfecf6d3379ff01bb85d5ab",
+        "decimal": 8
+    },
+    {
         "name": "ABCC Token",
         "address": "0xbf8fb919a8bbf28e590852aef2d284494ebc0657",
         "decimal": 18
     },
     {
-        "name": "DomRaiderToken",
-        "address": "0x9af4f26941677c706cfecf6d3379ff01bb85d5ab",
-        "decimal": 8
+        "name": "BitDegree",
+        "address": "0x1961b3331969ed52770751fc718ef530838b6dee",
+        "decimal": 18
+    },
+    {
+        "name": "FERA",
+        "address": "0x539F3615C1dBAfa0D008d87504667458acBd16Fa",
+        "decimal": 18
     },
     {
         "name": "COS",
@@ -1385,13 +1385,13 @@
         "decimal": 18
     },
     {
-        "name": "Sharder",
-        "address": "0xbbff862d906e348e9946bfb2132ecb157da3d4b4",
+        "name": "Robotina token",
+        "address": "0x574f84108a98c575794f75483d801d1d5dc861a5",
         "decimal": 18
     },
     {
-        "name": "CoinUs",
-        "address": "0x722f2f3eac7e9597c73a593f7cf3de33fbfc3308",
+        "name": "Sharder",
+        "address": "0xbbff862d906e348e9946bfb2132ecb157da3d4b4",
         "decimal": 18
     },
     {
@@ -1405,23 +1405,13 @@
         "decimal": 18
     },
     {
-        "name": "LocalCoinSwap Cryptoshare",
-        "address": "0xaa19961b6b858d9f18a115f25aa1d98abc1fdba8",
-        "decimal": 18
-    },
-    {
         "name": "Posscoin",
         "address": "0x6b193e107a773967bd821bcf8218f3548cfa2503",
         "decimal": 18
     },
     {
-        "name": "Ethverse Token",
-        "address": "0xEeEeeeeEe2aF8D0e1940679860398308e0eF24d6",
-        "decimal": 18
-    },
-    {
-        "name": "Zippie",
-        "address": "0xedd7c94fd7b4971b916d15067bc454b9e1bad980",
+        "name": "CoinUs",
+        "address": "0x722f2f3eac7e9597c73a593f7cf3de33fbfc3308",
         "decimal": 18
     },
     {
@@ -1435,8 +1425,13 @@
         "decimal": 18
     },
     {
-        "name": "BAS",
-        "address": "0xa7ed29b253d8b4e3109ce07c80fc570f81b63696",
+        "name": "LocalCoinSwap Cryptoshare",
+        "address": "0xaa19961b6b858d9f18a115f25aa1d98abc1fdba8",
+        "decimal": 18
+    },
+    {
+        "name": "Ethverse Token",
+        "address": "0xEeEeeeeEe2aF8D0e1940679860398308e0eF24d6",
         "decimal": 18
     },
     {
@@ -1445,8 +1440,13 @@
         "decimal": 18
     },
     {
-        "name": "NeuroChain Clausius",
-        "address": "0x5d48f293baed247a2d0189058ba37aa238bd4725",
+        "name": "Zippie",
+        "address": "0xedd7c94fd7b4971b916d15067bc454b9e1bad980",
+        "decimal": 18
+    },
+    {
+        "name": "BAS",
+        "address": "0xa7ed29b253d8b4e3109ce07c80fc570f81b63696",
         "decimal": 18
     },
     {
@@ -1457,6 +1457,11 @@
     {
         "name": "BOB Token",
         "address": "0xDF347911910b6c9A4286bA8E2EE5ea4a39eB2134",
+        "decimal": 18
+    },
+    {
+        "name": "Medical Token Currency",
+        "address": "0x905e337c6c8645263d3521205aa37bf4d034e745",
         "decimal": 18
     },
     {
@@ -1475,58 +1480,18 @@
         "decimal": 18
     },
     {
-        "name": "Starbase",
-        "address": "0xf70a642bd387f94380ffb90451c2c81d4eb82cbc",
-        "decimal": 18
-    },
-    {
-        "name": "Rating",
-        "address": "0xe8663a64a96169ff4d95b4299e7ae9a76b905b31",
-        "decimal": 8
-    },
-    {
-        "name": "Inmediate",
-        "address": "0xf14922001a2fb8541a433905437ae954419c2439",
-        "decimal": 8
-    },
-    {
-        "name": "X8XToken",
-        "address": "0x910dfc18d6ea3d6a7124a6f8b5458f281060fa4c",
-        "decimal": 18
-    },
-    {
         "name": "CNN Token",
         "address": "0x8713d26637cf49e1b6b4a7ce57106aabc9325343",
         "decimal": 18
     },
     {
-        "name": "Xaurum",
-        "address": "0x4DF812F6064def1e5e029f1ca858777CC98D2D81",
-        "decimal": 8
-    },
-    {
-        "name": "MedToken",
-        "address": "0x41dbecc1cdc5517c6f76f6a6e836adbee2754de3",
+        "name": "Starbase",
+        "address": "0xf70a642bd387f94380ffb90451c2c81d4eb82cbc",
         "decimal": 18
     },
     {
-        "name": "Robotina token",
-        "address": "0x574f84108a98c575794f75483d801d1d5dc861a5",
-        "decimal": 18
-    },
-    {
-        "name": "DAV Token",
-        "address": "0xd82df0abd3f51425eb15ef7580fda55727875f14",
-        "decimal": 18
-    },
-    {
-        "name": "Medical Token Currency",
-        "address": "0x905e337c6c8645263d3521205aa37bf4d034e745",
-        "decimal": 18
-    },
-    {
-        "name": "Endor Protocol Token",
-        "address": "0xc528c28fec0a90c083328bc45f587ee215760a0f",
+        "name": "X8XToken",
+        "address": "0x910dfc18d6ea3d6a7124a6f8b5458f281060fa4c",
         "decimal": 18
     },
     {
@@ -1535,13 +1500,38 @@
         "decimal": 4
     },
     {
-        "name": "VALID",
-        "address": "0x922ac473a3cc241fd3a0049ed14536452d58d73c",
+        "name": "Inmediate",
+        "address": "0xf14922001a2fb8541a433905437ae954419c2439",
+        "decimal": 8
+    },
+    {
+        "name": "Vortex DeFi",
+        "address": "0xceb286c9604c542d3cc08b41aa6c9675b078a832",
         "decimal": 18
     },
     {
-        "name": "Stacker Ventures Token",
-        "address": "0xe0955f26515d22e347b17669993fcefcc73c3a0a",
+        "name": "MedToken",
+        "address": "0x41dbecc1cdc5517c6f76f6a6e836adbee2754de3",
+        "decimal": 18
+    },
+    {
+        "name": "Rating",
+        "address": "0xe8663a64a96169ff4d95b4299e7ae9a76b905b31",
+        "decimal": 8
+    },
+    {
+        "name": "DAV Token",
+        "address": "0xd82df0abd3f51425eb15ef7580fda55727875f14",
+        "decimal": 18
+    },
+    {
+        "name": "NeuroChain Clausius",
+        "address": "0x5d48f293baed247a2d0189058ba37aa238bd4725",
+        "decimal": 18
+    },
+    {
+        "name": "Endor Protocol Token",
+        "address": "0xc528c28fec0a90c083328bc45f587ee215760a0f",
         "decimal": 18
     },
     {
@@ -1550,13 +1540,13 @@
         "decimal": 18
     },
     {
-        "name": "PayPie",
-        "address": "0xc42209aCcC14029c1012fB5680D95fBd6036E2a0",
-        "decimal": 18
+        "name": "Humaniq",
+        "address": "0xcbcc0f036ed4788f63fc0fee32873d6a7487b908",
+        "decimal": 8
     },
     {
-        "name": "Vortex DeFi",
-        "address": "0xceb286c9604c542d3cc08b41aa6c9675b078a832",
+        "name": "Stacker Ventures Token",
+        "address": "0xe0955f26515d22e347b17669993fcefcc73c3a0a",
         "decimal": 18
     },
     {
@@ -1565,13 +1555,18 @@
         "decimal": 18
     },
     {
-        "name": "DeFiWizard Token",
-        "address": "0x7dee45dff03ec7137979586ca20a2f4917bac9fa",
+        "name": "Xaurum",
+        "address": "0x4DF812F6064def1e5e029f1ca858777CC98D2D81",
+        "decimal": 8
+    },
+    {
+        "name": "PayPie",
+        "address": "0xc42209aCcC14029c1012fB5680D95fBd6036E2a0",
         "decimal": 18
     },
     {
-        "name": "Rapids",
-        "address": "0x4bf4f2ea258bf5cb69e9dc0ddb4a7a46a7c10c53",
+        "name": "DeFiWizard Token",
+        "address": "0x7dee45dff03ec7137979586ca20a2f4917bac9fa",
         "decimal": 18
     },
     {
@@ -1580,18 +1575,8 @@
         "decimal": 18
     },
     {
-        "name": "Humaniq",
-        "address": "0xcbcc0f036ed4788f63fc0fee32873d6a7487b908",
-        "decimal": 8
-    },
-    {
-        "name": "Amon",
-        "address": "0x737f98ac8ca59f2c68ad658e3c3d8c8963e40a4c",
-        "decimal": 18
-    },
-    {
-        "name": "TaTaTu",
-        "address": "0x9cda8a60dd5afa156c95bd974428d91a0812e054",
+        "name": "Rapids",
+        "address": "0x4bf4f2ea258bf5cb69e9dc0ddb4a7a46a7c10c53",
         "decimal": 18
     },
     {
@@ -1600,13 +1585,33 @@
         "decimal": 8
     },
     {
+        "name": "TaTaTu",
+        "address": "0x9cda8a60dd5afa156c95bd974428d91a0812e054",
+        "decimal": 18
+    },
+    {
+        "name": "UseChain Token",
+        "address": "0xd9485499499d66b175cf5ed54c0a19f1a6bcb61a",
+        "decimal": 18
+    },
+    {
+        "name": "HASHGARD",
+        "address": "0x5c64031c62061865e5fd0f53d3cdaef80f72e99d",
+        "decimal": 18
+    },
+    {
         "name": "NANJCOIN",
         "address": "0xffe02ee4c69edf1b340fcad64fbd6b37a7b9e265",
         "decimal": 8
     },
     {
-        "name": "UseChain Token",
-        "address": "0xd9485499499d66b175cf5ed54c0a19f1a6bcb61a",
+        "name": "Arcona Distribution Contract",
+        "address": "0x0f71b8de197a1c84d31de0f1fa7926c365f052b3",
+        "decimal": 18
+    },
+    {
+        "name": "UBEX Token",
+        "address": "0x6704b673c70de9bf74c8fba4b4bd748f0e2190e1",
         "decimal": 18
     },
     {
@@ -1620,28 +1625,13 @@
         "decimal": 18
     },
     {
+        "name": "Pepemon",
+        "address": "0x4D2eE5DAe46C86DA2FF521F7657dad98834f97b8",
+        "decimal": 18
+    },
+    {
         "name": "Tolar Token",
         "address": "0xd07d9fe2d2cc067015e2b4917d24933804f42cfa",
-        "decimal": 18
-    },
-    {
-        "name": "HASHGARD",
-        "address": "0x5c64031c62061865e5fd0f53d3cdaef80f72e99d",
-        "decimal": 18
-    },
-    {
-        "name": "Arcona Distribution Contract",
-        "address": "0x0f71b8de197a1c84d31de0f1fa7926c365f052b3",
-        "decimal": 18
-    },
-    {
-        "name": "Cryptonovae",
-        "address": "0x4ee438be38f8682abb089f2bfea48851c5e71eaf",
-        "decimal": 18
-    },
-    {
-        "name": "Portion Token",
-        "address": "0x6D0F5149c502faf215C89ab306ec3E50b15e2892",
         "decimal": 18
     },
     {
@@ -1650,13 +1640,13 @@
         "decimal": 18
     },
     {
-        "name": "UBEX Token",
-        "address": "0x6704b673c70de9bf74c8fba4b4bd748f0e2190e1",
+        "name": "MetaGraphChain",
+        "address": "0x6a27348483d59150ae76ef4c0f3622a78b0ca698",
         "decimal": 18
     },
     {
-        "name": "Pepemon",
-        "address": "0x4D2eE5DAe46C86DA2FF521F7657dad98834f97b8",
+        "name": "Cryptonovae",
+        "address": "0x4ee438be38f8682abb089f2bfea48851c5e71eaf",
         "decimal": 18
     },
     {
@@ -1665,8 +1655,8 @@
         "decimal": 18
     },
     {
-        "name": "MetaGraphChain",
-        "address": "0x6a27348483d59150ae76ef4c0f3622a78b0ca698",
+        "name": "Amon",
+        "address": "0x737f98ac8ca59f2c68ad658e3c3d8c8963e40a4c",
         "decimal": 18
     },
     {
@@ -1675,28 +1665,13 @@
         "decimal": 18
     },
     {
-        "name": "Tripio",
-        "address": "0x8b40761142b9aa6dc8964e61d0585995425c3d94",
-        "decimal": 18
-    },
-    {
-        "name": "UCASH",
-        "address": "0x92e52a1a235d9a103d970901066ce910aacefd37",
-        "decimal": 8
-    },
-    {
         "name": "Skrumble Network V2",
         "address": "0x048fe49be32adfc9ed68c37d32b5ec9df17b3603",
         "decimal": 18
     },
     {
-        "name": "Zipper",
-        "address": "0xa9d2927d3a04309e008b6af6e2e282ae2952e7fd",
-        "decimal": 18
-    },
-    {
-        "name": "Origo",
-        "address": "0xff0e5e014cf97e0615cb50f6f39da6388e2fae6e",
+        "name": "Tripio",
+        "address": "0x8b40761142b9aa6dc8964e61d0585995425c3d94",
         "decimal": 18
     },
     {
@@ -1705,8 +1680,23 @@
         "decimal": 0
     },
     {
+        "name": "UCASH",
+        "address": "0x92e52a1a235d9a103d970901066ce910aacefd37",
+        "decimal": 8
+    },
+    {
         "name": "NEXT",
         "address": "0x377d552914e7a104bc22b4f3b6268ddc69615be7",
+        "decimal": 18
+    },
+    {
+        "name": "Zipper",
+        "address": "0xa9d2927d3a04309e008b6af6e2e282ae2952e7fd",
+        "decimal": 18
+    },
+    {
+        "name": "Portion Token",
+        "address": "0x6D0F5149c502faf215C89ab306ec3E50b15e2892",
         "decimal": 18
     },
     {
@@ -1715,8 +1705,33 @@
         "decimal": 18
     },
     {
+        "name": "Origo",
+        "address": "0xff0e5e014cf97e0615cb50f6f39da6388e2fae6e",
+        "decimal": 18
+    },
+    {
+        "name": "Eden Coin",
+        "address": "0x89020f0D5C5AF4f3407Eb5Fe185416c457B0e93e",
+        "decimal": 18
+    },
+    {
         "name": "Zloadr Token",
         "address": "0xbdfa65533074b0b23ebc18c7190be79fa74b30c2",
+        "decimal": 18
+    },
+    {
+        "name": "Auctus",
+        "address": "0xc12d099be31567add4e4e4d0d45691c3f58f5663",
+        "decimal": 18
+    },
+    {
+        "name": "AdBank",
+        "address": "0x2baac9330cf9ac479d819195794d79ad0c7616e3",
+        "decimal": 18
+    },
+    {
+        "name": "Leverj Gluon",
+        "address": "0xbbff34e47e559ef680067a6b1c980639eeb64d24",
         "decimal": 18
     },
     {
@@ -1730,29 +1745,14 @@
         "decimal": 18
     },
     {
-        "name": "Auctus",
-        "address": "0xc12d099be31567add4e4e4d0d45691c3f58f5663",
-        "decimal": 18
-    },
-    {
-        "name": "Leverj Gluon",
-        "address": "0xbbff34e47e559ef680067a6b1c980639eeb64d24",
-        "decimal": 18
-    },
-    {
-        "name": "Eden Coin",
-        "address": "0x89020f0D5C5AF4f3407Eb5Fe185416c457B0e93e",
-        "decimal": 18
-    },
-    {
-        "name": "PolkaRareToken",
-        "address": "0x2c2f7e7c5604d162d75641256b80f1bf6f4dc796",
-        "decimal": 18
-    },
-    {
         "name": "Zoracles",
         "address": "0xD8E3FB3b08eBA982F2754988d70D57eDc0055ae6",
         "decimal": 9
+    },
+    {
+        "name": "Katalyo Token",
+        "address": "0x24E3794605C84E580EEA4972738D633E8a7127c8",
+        "decimal": 18
     },
     {
         "name": "BITTO",
@@ -1765,18 +1765,23 @@
         "decimal": 8
     },
     {
+        "name": "PolkaRareToken",
+        "address": "0x2c2f7e7c5604d162d75641256b80f1bf6f4dc796",
+        "decimal": 18
+    },
+    {
         "name": "BitScreenerToken",
         "address": "0xff2b3353c3015e9f1fbf95b9bda23f58aa7ce007",
         "decimal": 18
     },
     {
-        "name": "Katalyo Token",
-        "address": "0x24E3794605C84E580EEA4972738D633E8a7127c8",
+        "name": "DigitexFutures",
+        "address": "0xc666081073E8DfF8D3d1c2292A29aE1A2153eC09",
         "decimal": 18
     },
     {
-        "name": "AdBank",
-        "address": "0x2baac9330cf9ac479d819195794d79ad0c7616e3",
+        "name": "VALID",
+        "address": "0x922ac473a3cc241fd3a0049ed14536452d58d73c",
         "decimal": 18
     },
     {
@@ -1785,14 +1790,14 @@
         "decimal": 18
     },
     {
+        "name": "APYSwap",
+        "address": "0xf7413489c474ca4399eee604716c72879eea3615",
+        "decimal": 18
+    },
+    {
         "name": "Partner",
         "address": "0xcaa05e82bdcba9e25cd1a3bf1afb790c1758943d",
         "decimal": 8
-    },
-    {
-        "name": "DigitexFutures",
-        "address": "0xc666081073E8DfF8D3d1c2292A29aE1A2153eC09",
-        "decimal": 18
     },
     {
         "name": "Six Domain Asset",
@@ -1810,13 +1815,8 @@
         "decimal": 18
     },
     {
-        "name": "APYSwap",
-        "address": "0xf7413489c474ca4399eee604716c72879eea3615",
-        "decimal": 18
-    },
-    {
-        "name": "UNetworkToken",
-        "address": "0x3543638ed4a9006e4840b105944271bcea15605d",
+        "name": "UltrainGas",
+        "address": "0x8716fc5da009d3a208f0178b637a50f4ef42400f",
         "decimal": 18
     },
     {
@@ -1825,8 +1825,8 @@
         "decimal": 18
     },
     {
-        "name": "UltrainGas",
-        "address": "0x8716fc5da009d3a208f0178b637a50f4ef42400f",
+        "name": "UNetworkToken",
+        "address": "0x3543638ed4a9006e4840b105944271bcea15605d",
         "decimal": 18
     },
     {
@@ -1835,14 +1835,9 @@
         "decimal": 18
     },
     {
-        "name": "SWARM",
-        "address": "0x3505f494c3f0fed0b594e01fa41dd3967645ca39",
+        "name": "Faceter",
+        "address": "0x1ccaa0f2a7210d76e1fdec740d5f323e2e1b1672",
         "decimal": 18
-    },
-    {
-        "name": "Cappasity",
-        "address": "0x04f2e7221fdb1b52a68169b25793e51478ff0329",
-        "decimal": 2
     },
     {
         "name": "Non-Fungible Yearn",
@@ -1850,8 +1845,13 @@
         "decimal": 18
     },
     {
-        "name": "Faceter",
-        "address": "0x1ccaa0f2a7210d76e1fdec740d5f323e2e1b1672",
+        "name": "SWARM",
+        "address": "0x3505f494c3f0fed0b594e01fa41dd3967645ca39",
+        "decimal": 18
+    },
+    {
+        "name": "WINGS",
+        "address": "0x667088b212ce3d06a1b553a7221E1fD19000d9aF",
         "decimal": 18
     },
     {
@@ -1860,58 +1860,13 @@
         "decimal": 8
     },
     {
-        "name": "WINGS",
-        "address": "0x667088b212ce3d06a1b553a7221E1fD19000d9aF",
-        "decimal": 18
+        "name": "Cappasity",
+        "address": "0x04f2e7221fdb1b52a68169b25793e51478ff0329",
+        "decimal": 2
     },
     {
-        "name": "DAPSTOKEN",
-        "address": "0x93190dbce9b9bd4aa546270a8d1d65905b5fdd28",
-        "decimal": 18
-    },
-    {
-        "name": "YOP",
-        "address": "0xae1eaae3f627aaca434127644371b67b18444051",
-        "decimal": 8
-    },
-    {
-        "name": "Quantum",
-        "address": "0x671abbe5ce652491985342e85428eb1b07bc6c64",
-        "decimal": 8
-    },
-    {
-        "name": "Vibe Coin",
-        "address": "0xe8ff5c9c75deb346acac493c463c8950be03dfba",
-        "decimal": 18
-    },
-    {
-        "name": "WePower",
-        "address": "0x4CF488387F035FF08c371515562CBa712f9015d4",
-        "decimal": 18
-    },
-    {
-        "name": "DAEX Token",
-        "address": "0x0b4bdc478791897274652dc15ef5c135cae61e60",
-        "decimal": 18
-    },
-    {
-        "name": "Digix Gold Token",
-        "address": "0x4f3afec4e5a3f2a6a1a411def7d7dfe50ee057bf",
-        "decimal": 9
-    },
-    {
-        "name": "YOU Chain",
-        "address": "0x34364BEe11607b1963d66BCA665FDE93fCA666a8",
-        "decimal": 18
-    },
-    {
-        "name": "DOS Network Token",
-        "address": "0x0A913beaD80F321E7Ac35285Ee10d9d922659cB7",
-        "decimal": 18
-    },
-    {
-        "name": "NFT INDEX",
-        "address": "0xe5feeac09d36b18b3fa757e5cf3f8da6b8e27f4c",
+        "name": "VIN",
+        "address": "0xf3e014fe81267870624132ef3a646b8e83853a96",
         "decimal": 18
     },
     {
@@ -1920,8 +1875,73 @@
         "decimal": 18
     },
     {
+        "name": "YOP",
+        "address": "0xae1eaae3f627aaca434127644371b67b18444051",
+        "decimal": 8
+    },
+    {
+        "name": "Indorse",
+        "address": "0xf8e386eda857484f5a12e4b5daa9984e06e73705",
+        "decimal": 18
+    },
+    {
+        "name": "DAPSTOKEN",
+        "address": "0x93190dbce9b9bd4aa546270a8d1d65905b5fdd28",
+        "decimal": 18
+    },
+    {
+        "name": "Vibe Coin",
+        "address": "0xe8ff5c9c75deb346acac493c463c8950be03dfba",
+        "decimal": 18
+    },
+    {
+        "name": "Quantum",
+        "address": "0x671abbe5ce652491985342e85428eb1b07bc6c64",
+        "decimal": 8
+    },
+    {
+        "name": "DOS Network Token",
+        "address": "0x0A913beaD80F321E7Ac35285Ee10d9d922659cB7",
+        "decimal": 18
+    },
+    {
+        "name": "DAEX Token",
+        "address": "0x0b4bdc478791897274652dc15ef5c135cae61e60",
+        "decimal": 18
+    },
+    {
+        "name": "YOU Chain",
+        "address": "0x34364BEe11607b1963d66BCA665FDE93fCA666a8",
+        "decimal": 18
+    },
+    {
+        "name": "Digix Gold Token",
+        "address": "0x4f3afec4e5a3f2a6a1a411def7d7dfe50ee057bf",
+        "decimal": 9
+    },
+    {
+        "name": "NFT INDEX",
+        "address": "0xe5feeac09d36b18b3fa757e5cf3f8da6b8e27f4c",
+        "decimal": 18
+    },
+    {
         "name": "CUBE",
         "address": "0x622dFfCc4e83C64ba959530A5a5580687a57581b",
+        "decimal": 18
+    },
+    {
+        "name": "CPChain",
+        "address": "0xfAE4Ee59CDd86e3Be9e8b90b53AA866327D7c090",
+        "decimal": 18
+    },
+    {
+        "name": "aXpire",
+        "address": "0xdD0020B1D5Ba47A54E2EB16800D73Beb6546f91A",
+        "decimal": 18
+    },
+    {
+        "name": "Matryx",
+        "address": "0x0af44e2784637218dd1d32a322d44e603a8f0c6a",
         "decimal": 18
     },
     {
@@ -1935,13 +1955,8 @@
         "decimal": 18
     },
     {
-        "name": "Matryx",
-        "address": "0x0af44e2784637218dd1d32a322d44e603a8f0c6a",
-        "decimal": 18
-    },
-    {
-        "name": "CPChain",
-        "address": "0xfAE4Ee59CDd86e3Be9e8b90b53AA866327D7c090",
+        "name": "WePower",
+        "address": "0x4CF488387F035FF08c371515562CBa712f9015d4",
         "decimal": 18
     },
     {
@@ -1955,28 +1970,8 @@
         "decimal": 18
     },
     {
-        "name": "Indorse",
-        "address": "0xf8e386eda857484f5a12e4b5daa9984e06e73705",
-        "decimal": 18
-    },
-    {
-        "name": "VIN",
-        "address": "0xf3e014fe81267870624132ef3a646b8e83853a96",
-        "decimal": 18
-    },
-    {
-        "name": "aXpire",
-        "address": "0xdD0020B1D5Ba47A54E2EB16800D73Beb6546f91A",
-        "decimal": 18
-    },
-    {
-        "name": "ODEM Token",
-        "address": "0xbf52f2ab39e26e0951d2a02b49b7702abe30406a",
-        "decimal": 18
-    },
-    {
-        "name": "qiibeeToken",
-        "address": "0x2467aa6b5a2351416fd4c3def8462d841feeecec",
+        "name": "SunContract",
+        "address": "0xF4134146AF2d511Dd5EA8cDB1C4AC88C57D60404",
         "decimal": 18
     },
     {
@@ -1985,8 +1980,8 @@
         "decimal": 18
     },
     {
-        "name": "SunContract",
-        "address": "0xF4134146AF2d511Dd5EA8cDB1C4AC88C57D60404",
+        "name": "ODEM Token",
+        "address": "0xbf52f2ab39e26e0951d2a02b49b7702abe30406a",
         "decimal": 18
     },
     {
@@ -1995,9 +1990,19 @@
         "decimal": 8
     },
     {
+        "name": "NeuroToken",
+        "address": "0x69beab403438253f13b6e92db91f7fb849258263",
+        "decimal": 18
+    },
+    {
         "name": "Sapien Network",
         "address": "0x20f7a3ddf244dc9299975b4da1c39f8d5d75f05a",
         "decimal": 6
+    },
+    {
+        "name": "DePay",
+        "address": "0xa0bEd124a09ac2Bd941b10349d8d224fe3c955eb",
+        "decimal": 18
     },
     {
         "name": "Block-Chain.com Token",
@@ -2010,18 +2015,8 @@
         "decimal": 18
     },
     {
-        "name": "NeuroToken",
-        "address": "0x69beab403438253f13b6e92db91f7fb849258263",
-        "decimal": 18
-    },
-    {
-        "name": "DePay",
-        "address": "0xa0bEd124a09ac2Bd941b10349d8d224fe3c955eb",
-        "decimal": 18
-    },
-    {
-        "name": "QunQunCommunities",
-        "address": "0x264dc2dedcdcbb897561a57cba5085ca416fb7b4",
+        "name": "Empty Set Dollar",
+        "address": "0x36F3FD68E7325a35EB768F1AedaAe9EA0689d723",
         "decimal": 18
     },
     {
@@ -2030,18 +2025,8 @@
         "decimal": 18
     },
     {
-        "name": "Empty Set Dollar",
-        "address": "0x36F3FD68E7325a35EB768F1AedaAe9EA0689d723",
-        "decimal": 18
-    },
-    {
-        "name": "Float Protocol: FLOAT",
-        "address": "0xb05097849bca421a3f51b249ba6cca4af4b97cb9",
-        "decimal": 18
-    },
-    {
-        "name": "Kcash",
-        "address": "0x32d74896f05204d1b6ae7b0a3cebd7fc0cd8f9c7",
+        "name": "QunQunCommunities",
+        "address": "0x264dc2dedcdcbb897561a57cba5085ca416fb7b4",
         "decimal": 18
     },
     {
@@ -2050,8 +2035,13 @@
         "decimal": 18
     },
     {
-        "name": "Tadpole",
-        "address": "0x9f7229aF0c4b9740e207Ea283b9094983f78ba04",
+        "name": "qiibeeToken",
+        "address": "0x2467aa6b5a2351416fd4c3def8462d841feeecec",
+        "decimal": 18
+    },
+    {
+        "name": "Float Protocol: FLOAT",
+        "address": "0xb05097849bca421a3f51b249ba6cca4af4b97cb9",
         "decimal": 18
     },
     {
@@ -2060,13 +2050,23 @@
         "decimal": 18
     },
     {
-        "name": "PumaPay",
-        "address": "0x846c66cf71c43f80403b51fe3906b3599d63336f",
+        "name": "Tadpole",
+        "address": "0x9f7229aF0c4b9740e207Ea283b9094983f78ba04",
+        "decimal": 18
+    },
+    {
+        "name": "Kcash",
+        "address": "0x32d74896f05204d1b6ae7b0a3cebd7fc0cd8f9c7",
         "decimal": 18
     },
     {
         "name": "Public Index Network",
         "address": "0xc1f976b91217e240885536af8b63bc8b5269a9be",
+        "decimal": 18
+    },
+    {
+        "name": "PumaPay",
+        "address": "0x846c66cf71c43f80403b51fe3906b3599d63336f",
         "decimal": 18
     },
     {
@@ -2095,23 +2095,13 @@
         "decimal": 18
     },
     {
-        "name": "Hydro Protocol",
-        "address": "0x9af839687f6c94542ac5ece2e317daae355493a1",
-        "decimal": 18
-    },
-    {
-        "name": "VeriSafe",
-        "address": "0xac9ce326e95f51b5005e9fe1dd8085a01f18450c",
-        "decimal": 18
-    },
-    {
         "name": "NapoleonX",
         "address": "0x28b5e12cce51f15594b0b91d5b5adaa70f684a02",
         "decimal": 2
     },
     {
-        "name": "Herocoin",
-        "address": "0xe477292f1b3268687a29376116b0ed27a9c76170",
+        "name": "VeriSafe",
+        "address": "0xac9ce326e95f51b5005e9fe1dd8085a01f18450c",
         "decimal": 18
     },
     {
@@ -2120,13 +2110,8 @@
         "decimal": 18
     },
     {
-        "name": "renDOGE",
-        "address": "0x3832d2F059E55934220881F831bE501D180671A7",
-        "decimal": 8
-    },
-    {
-        "name": "XIO Network",
-        "address": "0x0f7F961648aE6Db43C75663aC7E5414Eb79b5704",
+        "name": "Hydro Protocol",
+        "address": "0x9af839687f6c94542ac5ece2e317daae355493a1",
         "decimal": 18
     },
     {
@@ -2135,19 +2120,19 @@
         "decimal": 18
     },
     {
-        "name": "Falcon",
-        "address": "0xdc5864ede28bd4405aa04d93e05a0531797d9d59",
-        "decimal": 6
-    },
-    {
-        "name": "https://unimex.network/",
-        "address": "0x10be9a8dae441d276a5027936c3aaded2d82bc15",
+        "name": "XIO Network",
+        "address": "0x0f7F961648aE6Db43C75663aC7E5414Eb79b5704",
         "decimal": 18
     },
     {
-        "name": "Genesis Pool",
-        "address": "0x797de1dc0b9faf5e25c1f7efe8df9599138fa09d",
+        "name": "Herocoin",
+        "address": "0xe477292f1b3268687a29376116b0ed27a9c76170",
         "decimal": 18
+    },
+    {
+        "name": "renDOGE",
+        "address": "0x3832d2F059E55934220881F831bE501D180671A7",
+        "decimal": 8
     },
     {
         "name": "Woofy",
@@ -2160,9 +2145,24 @@
         "decimal": 18
     },
     {
+        "name": "https://unimex.network/",
+        "address": "0x10be9a8dae441d276a5027936c3aaded2d82bc15",
+        "decimal": 18
+    },
+    {
         "name": "ChangeNOW",
         "address": "0xe9a95d175a5f4c9369f3b74222402eb1b837693b",
         "decimal": 8
+    },
+    {
+        "name": "Genesis Pool",
+        "address": "0x797de1dc0b9faf5e25c1f7efe8df9599138fa09d",
+        "decimal": 18
+    },
+    {
+        "name": "Bloom",
+        "address": "0x107c4504cd79c5d2696ea0030a8dd4e92601b82e",
+        "decimal": 18
     },
     {
         "name": "HitchainCoin",
@@ -2170,8 +2170,8 @@
         "decimal": 6
     },
     {
-        "name": "Bloom",
-        "address": "0x107c4504cd79c5d2696ea0030a8dd4e92601b82e",
+        "name": "MediShares",
+        "address": "0x66186008C1050627F979d464eABb258860563dbE",
         "decimal": 18
     },
     {
@@ -2180,8 +2180,8 @@
         "decimal": 18
     },
     {
-        "name": "MediShares",
-        "address": "0x66186008C1050627F979d464eABb258860563dbE",
+        "name": "Public Mint",
+        "address": "0x0cdf9acd87e940837ff21bb40c9fd55f68bba059",
         "decimal": 18
     },
     {
@@ -2190,29 +2190,19 @@
         "decimal": 18
     },
     {
-        "name": "Furucombo",
-        "address": "0xffffffff2ba8f66d4e51811c5190992176930278",
-        "decimal": 18
-    },
-    {
-        "name": "Public Mint",
-        "address": "0x0cdf9acd87e940837ff21bb40c9fd55f68bba059",
-        "decimal": 18
-    },
-    {
         "name": "UnlimitedIP Token",
         "address": "0x4290563c2d7c255b5eec87f2d3bd10389f991d68",
         "decimal": 18
     },
     {
-        "name": "YUKI",
-        "address": "0x5ab793e36070f0fac928ea15826b0c1bc5365119",
-        "decimal": 8
+        "name": "Furucombo",
+        "address": "0xffffffff2ba8f66d4e51811c5190992176930278",
+        "decimal": 18
     },
     {
-        "name": "IOT Chain",
-        "address": "0x5e6b6d9abad9093fdc861ea1600eba1b355cd940",
-        "decimal": 18
+        "name": "Falcon",
+        "address": "0xdc5864ede28bd4405aa04d93e05a0531797d9d59",
+        "decimal": 6
     },
     {
         "name": "TenXPay",
@@ -2220,9 +2210,9 @@
         "decimal": 18
     },
     {
-        "name": "CryptalDash",
-        "address": "0xcaaa93712bdac37f736c323c93d4d5fdefcc31cc",
-        "decimal": 18
+        "name": "YUKI",
+        "address": "0x5ab793e36070f0fac928ea15826b0c1bc5365119",
+        "decimal": 8
     },
     {
         "name": "Shadows Network",
@@ -2235,13 +2225,8 @@
         "decimal": 18
     },
     {
-        "name": "SENTinel",
-        "address": "0xa44e5137293e855b1b7bc7e2c6f8cd796ffcb037",
-        "decimal": 8
-    },
-    {
-        "name": "DeFiner",
-        "address": "0x054f76beED60AB6dBEb23502178C52d6C5dEbE40",
+        "name": "CryptalDash",
+        "address": "0xcaaa93712bdac37f736c323c93d4d5fdefcc31cc",
         "decimal": 18
     },
     {
@@ -2250,13 +2235,28 @@
         "decimal": 18
     },
     {
+        "name": "Lendingblock",
+        "address": "0x0947b0e6d821378805c9598291385ce7c791a6b2",
+        "decimal": 18
+    },
+    {
         "name": "Internet Node Token",
         "address": "0x0b76544f6c413a555f309bf76260d1e02377c02a",
         "decimal": 6
     },
     {
-        "name": "Dapp Token",
-        "address": "0x96184d9C811Ea0624fC30C80233B1d749B9E485B",
+        "name": "SENTinel",
+        "address": "0xa44e5137293e855b1b7bc7e2c6f8cd796ffcb037",
+        "decimal": 8
+    },
+    {
+        "name": "IOT Chain",
+        "address": "0x5e6b6d9abad9093fdc861ea1600eba1b355cd940",
+        "decimal": 18
+    },
+    {
+        "name": "GHOST",
+        "address": "0x4c327471C44B2dacD6E90525f9D629bd2e4f662C",
         "decimal": 18
     },
     {
@@ -2270,13 +2270,8 @@
         "decimal": 18
     },
     {
-        "name": "Lendingblock",
-        "address": "0x0947b0e6d821378805c9598291385ce7c791a6b2",
-        "decimal": 18
-    },
-    {
-        "name": "GHOST",
-        "address": "0x4c327471C44B2dacD6E90525f9D629bd2e4f662C",
+        "name": "ClinTex",
+        "address": "0x8c18D6a985Ef69744b9d57248a45c0861874f244",
         "decimal": 18
     },
     {
@@ -2285,8 +2280,8 @@
         "decimal": 2
     },
     {
-        "name": "Unido",
-        "address": "0xea3983fc6d0fbbc41fb6f6091f68f3e08894dc06",
+        "name": "DeFiner",
+        "address": "0x054f76beED60AB6dBEb23502178C52d6C5dEbE40",
         "decimal": 18
     },
     {
@@ -2295,29 +2290,29 @@
         "decimal": 18
     },
     {
+        "name": "Unido",
+        "address": "0xea3983fc6d0fbbc41fb6f6091f68f3e08894dc06",
+        "decimal": 18
+    },
+    {
         "name": "Signata",
         "address": "0x3ebb4a4e91ad83be51f8d596533818b246f4bee1",
         "decimal": 18
     },
     {
-        "name": "ClinTex",
-        "address": "0x8c18D6a985Ef69744b9d57248a45c0861874f244",
+        "name": "LAtoken",
+        "address": "0xe50365f5d679cb98a1dd62d6f6e58e59321bcddf",
         "decimal": 18
     },
     {
-        "name": "Compound Wrapped BTC",
-        "address": "0xC11b1268C1A384e55C48c2391d8d480264A3A7F4",
-        "decimal": 8
-    },
-    {
-        "name": "XMAX",
-        "address": "0x0f8c45b896784a1e408526b9300519ef8660209c",
-        "decimal": 8
-    },
-    {
-        "name": "OCoin",
-        "address": "0x4092678e4e78230f46a1534c0fbc8fa39780892b",
+        "name": "AVT",
+        "address": "0x0d88ed6e74bbfd96b831231638b66c05571e824f",
         "decimal": 18
+    },
+    {
+        "name": "Enigma",
+        "address": "0xf0ee6b27b759c9893ce4f094b49ad28fd15a23e4",
+        "decimal": 8
     },
     {
         "name": "StackOS",
@@ -2330,14 +2325,14 @@
         "decimal": 18
     },
     {
-        "name": "AVT",
-        "address": "0x0d88ed6e74bbfd96b831231638b66c05571e824f",
+        "name": "Dapp Token",
+        "address": "0x96184d9C811Ea0624fC30C80233B1d749B9E485B",
         "decimal": 18
     },
     {
-        "name": "indaHash Coin",
-        "address": "0x5136c98a80811c3f46bdda8b5c4555cfd9f812f0",
-        "decimal": 6
+        "name": "Compound Wrapped BTC",
+        "address": "0xC11b1268C1A384e55C48c2391d8d480264A3A7F4",
+        "decimal": 8
     },
     {
         "name": "CREDITS",
@@ -2345,28 +2340,8 @@
         "decimal": 6
     },
     {
-        "name": "Enigma",
-        "address": "0xf0ee6b27b759c9893ce4f094b49ad28fd15a23e4",
-        "decimal": 8
-    },
-    {
-        "name": "LAtoken",
-        "address": "0xe50365f5d679cb98a1dd62d6f6e58e59321bcddf",
-        "decimal": 18
-    },
-    {
-        "name": "Revain",
-        "address": "0x2ef52Ed7De8c5ce03a4eF0efbe9B7450F2D7Edc9",
-        "decimal": 6
-    },
-    {
-        "name": "BIX Token",
-        "address": "0xb3104b4b9da82025e8b9f8fb28b3553ce2f67069",
-        "decimal": 18
-    },
-    {
-        "name": "Nerve Network",
-        "address": "0x7b6f71c8b123b38aa8099e0098bec7fbc35b8a13",
+        "name": "XMAX",
+        "address": "0x0f8c45b896784a1e408526b9300519ef8660209c",
         "decimal": 8
     },
     {
@@ -2375,8 +2350,18 @@
         "decimal": 18
     },
     {
-        "name": "Pluton",
-        "address": "0xD8912C10681D8B21Fd3742244f44658dBA12264E",
+        "name": "BIX Token",
+        "address": "0xb3104b4b9da82025e8b9f8fb28b3553ce2f67069",
+        "decimal": 18
+    },
+    {
+        "name": "Revain",
+        "address": "0x2ef52Ed7De8c5ce03a4eF0efbe9B7450F2D7Edc9",
+        "decimal": 6
+    },
+    {
+        "name": "OCoin",
+        "address": "0x4092678e4e78230f46a1534c0fbc8fa39780892b",
         "decimal": 18
     },
     {
@@ -2385,14 +2370,19 @@
         "decimal": 18
     },
     {
+        "name": "PILLAR",
+        "address": "0xe3818504c1b32bf1557b16c238b2e01fd3149c17",
+        "decimal": 18
+    },
+    {
         "name": "Tokenomy",
         "address": "0xdd16ec0f66e54d453e6756713e533355989040e4",
         "decimal": 18
     },
     {
-        "name": "PILLAR",
-        "address": "0xe3818504c1b32bf1557b16c238b2e01fd3149c17",
-        "decimal": 18
+        "name": "indaHash Coin",
+        "address": "0x5136c98a80811c3f46bdda8b5c4555cfd9f812f0",
+        "decimal": 6
     },
     {
         "name": "Origin Dollar",
@@ -2405,8 +2395,8 @@
         "decimal": 18
     },
     {
-        "name": "MATRIX AI Network",
-        "address": "0xe25bcec5d3801ce3a794079bf94adf1b8ccd802d",
+        "name": "AppCoins",
+        "address": "0x1a7a8bd9106f2b8d977e08582dc7d24c723ab0db",
         "decimal": 18
     },
     {
@@ -2420,13 +2410,18 @@
         "decimal": 18
     },
     {
-        "name": "AppCoins",
-        "address": "0x1a7a8bd9106f2b8d977e08582dc7d24c723ab0db",
+        "name": "MATRIX AI Network",
+        "address": "0xe25bcec5d3801ce3a794079bf94adf1b8ccd802d",
         "decimal": 18
     },
     {
-        "name": "All Sports Coin",
-        "address": "0x2d0e95bd4795d7ace0da3c0ff7b706a5970eb9d3",
+        "name": "AMLT",
+        "address": "0xca0e7269600d353f70b14ad118a49575455c0f2f",
+        "decimal": 18
+    },
+    {
+        "name": "ZAP TOKEN",
+        "address": "0x6781a0f84c7e9e846dcb84a9a5bd49333067b104",
         "decimal": 18
     },
     {
@@ -2435,8 +2430,23 @@
         "decimal": 8
     },
     {
-        "name": "ZAP TOKEN",
-        "address": "0x6781a0f84c7e9e846dcb84a9a5bd49333067b104",
+        "name": "Nerve Network",
+        "address": "0x7b6f71c8b123b38aa8099e0098bec7fbc35b8a13",
+        "decimal": 8
+    },
+    {
+        "name": "All Sports Coin",
+        "address": "0x2d0e95bd4795d7ace0da3c0ff7b706a5970eb9d3",
+        "decimal": 18
+    },
+    {
+        "name": "NucleusVision",
+        "address": "0x809826cceab68c387726af962713b64cb5cb3cca",
+        "decimal": 18
+    },
+    {
+        "name": "StakeWise",
+        "address": "0x48c3399719b582dd63eb5aadf12a40b4c3f52fa2",
         "decimal": 18
     },
     {
@@ -2445,13 +2455,33 @@
         "decimal": 8
     },
     {
-        "name": "NucleusVision",
-        "address": "0x809826cceab68c387726af962713b64cb5cb3cca",
+        "name": "Tranche Finance",
+        "address": "0x0aee8703d34dd9ae107386d3eff22ae75dd616d1",
         "decimal": 18
     },
     {
         "name": "AOG",
         "address": "0x8578530205cecbe5db83f7f29ecfeec860c297c2",
+        "decimal": 18
+    },
+    {
+        "name": "Pluton",
+        "address": "0xD8912C10681D8B21Fd3742244f44658dBA12264E",
+        "decimal": 18
+    },
+    {
+        "name": "Voice Token",
+        "address": "0x2e2364966267B5D7D2cE6CD9A9B5bD19d9C7C6A9",
+        "decimal": 18
+    },
+    {
+        "name": "Aurora",
+        "address": "0x9ab165d795019b6d8b3e971dda91071421305e5a",
+        "decimal": 18
+    },
+    {
+        "name": "DOVU",
+        "address": "0xac3211a5025414af2866ff09c23fc18bc97e79b1",
         "decimal": 18
     },
     {
@@ -2465,38 +2495,8 @@
         "decimal": 8
     },
     {
-        "name": "DOVU",
-        "address": "0xac3211a5025414af2866ff09c23fc18bc97e79b1",
-        "decimal": 18
-    },
-    {
-        "name": "StakeWise",
-        "address": "0x48c3399719b582dd63eb5aadf12a40b4c3f52fa2",
-        "decimal": 18
-    },
-    {
-        "name": "Voice Token",
-        "address": "0x2e2364966267B5D7D2cE6CD9A9B5bD19d9C7C6A9",
-        "decimal": 18
-    },
-    {
-        "name": "AMLT",
-        "address": "0xca0e7269600d353f70b14ad118a49575455c0f2f",
-        "decimal": 18
-    },
-    {
-        "name": "Tranche Finance",
-        "address": "0x0aee8703d34dd9ae107386d3eff22ae75dd616d1",
-        "decimal": 18
-    },
-    {
         "name": "VIB",
         "address": "0x2C974B2d0BA1716E644c1FC59982a89DDD2fF724",
-        "decimal": 18
-    },
-    {
-        "name": "Lympo Market Token",
-        "address": "0x327673ae6b33bd3d90f0096870059994f30dc8af",
         "decimal": 18
     },
     {
@@ -2505,13 +2505,13 @@
         "decimal": 18
     },
     {
-        "name": "Aurora",
-        "address": "0x9ab165d795019b6d8b3e971dda91071421305e5a",
+        "name": "Fuse Token",
+        "address": "0x970b9bb2c0444f5e81e9d0efb84c8ccdcdcaf84d",
         "decimal": 18
     },
     {
-        "name": "Fuse Token",
-        "address": "0x970b9bb2c0444f5e81e9d0efb84c8ccdcdcaf84d",
+        "name": "Lympo Market Token",
+        "address": "0x327673ae6b33bd3d90f0096870059994f30dc8af",
         "decimal": 18
     },
     {
@@ -2520,9 +2520,9 @@
         "decimal": 18
     },
     {
-        "name": "Spendcoin",
-        "address": "0xddd460bbd9f79847ea08681563e8a9696867210c",
-        "decimal": 18
+        "name": "SwftCoin",
+        "address": "0x0bb217e40f8a5cb79adf04e1aab60e5abd0dfc1e",
+        "decimal": 8
     },
     {
         "name": "TOP Network",
@@ -2530,8 +2530,8 @@
         "decimal": 18
     },
     {
-        "name": "BHPCash",
-        "address": "0xee74110fb5a1007b06282e0de5d73a61bf41d9cd",
+        "name": "Spendcoin",
+        "address": "0xddd460bbd9f79847ea08681563e8a9696867210c",
         "decimal": 18
     },
     {
@@ -2540,18 +2540,23 @@
         "decimal": 18
     },
     {
-        "name": "SwftCoin",
-        "address": "0x0bb217e40f8a5cb79adf04e1aab60e5abd0dfc1e",
+        "name": "POA ERC20 on Foundation",
+        "address": "0x6758b7d441a9739b98552b373703d8d3d14f9e62",
+        "decimal": 18
+    },
+    {
+        "name": "BHPCash",
+        "address": "0xee74110fb5a1007b06282e0de5d73a61bf41d9cd",
+        "decimal": 18
+    },
+    {
+        "name": "Hiveterminal Token",
+        "address": "0xC0Eb85285d83217CD7c891702bcbC0FC401E2D9D",
         "decimal": 8
     },
     {
         "name": "UTN-P: Universa Token",
         "address": "0x9e3319636e2126e3c0bc9e3134aec5e1508a46c7",
-        "decimal": 18
-    },
-    {
-        "name": "POA ERC20 on Foundation",
-        "address": "0x6758b7d441a9739b98552b373703d8d3d14f9e62",
         "decimal": 18
     },
     {
@@ -2575,18 +2580,8 @@
         "decimal": 18
     },
     {
-        "name": "Hiveterminal Token",
-        "address": "0xC0Eb85285d83217CD7c891702bcbC0FC401E2D9D",
-        "decimal": 8
-    },
-    {
         "name": "PCHAIN",
         "address": "0xb9bb08ab7e9fa0a1356bd4a39ec0ca267e03b0b3",
-        "decimal": 18
-    },
-    {
-        "name": "WaBi",
-        "address": "0x286BDA1413a2Df81731D4930ce2F862a35A609fE",
         "decimal": 18
     },
     {
@@ -2605,13 +2600,8 @@
         "decimal": 8
     },
     {
-        "name": "Wirex Token",
-        "address": "0xa02120696c7b8fe16c09c749e4598819b2b0e915",
-        "decimal": 18
-    },
-    {
-        "name": "RipioCreditNetwork",
-        "address": "0xf970b8e36e23f7fc3fd752eea86f8be8d83375a6",
+        "name": "Geeq",
+        "address": "0x6B9f031D718dDed0d681c20cB754F97b3BB81b78",
         "decimal": 18
     },
     {
@@ -2625,18 +2615,23 @@
         "decimal": 5
     },
     {
+        "name": "RipioCreditNetwork",
+        "address": "0xf970b8e36e23f7fc3fd752eea86f8be8d83375a6",
+        "decimal": 18
+    },
+    {
+        "name": "Wirex Token",
+        "address": "0xa02120696c7b8fe16c09c749e4598819b2b0e915",
+        "decimal": 18
+    },
+    {
+        "name": "WaBi",
+        "address": "0x286BDA1413a2Df81731D4930ce2F862a35A609fE",
+        "decimal": 18
+    },
+    {
         "name": "Sentivate",
         "address": "0x7865af71cf0b288b4e7f654f4f7851eb46a2b7f8",
-        "decimal": 18
-    },
-    {
-        "name": "Jenny Metaverse DAO Token",
-        "address": "0xa499648fd0e80fd911972bbeb069e4c20e68bf22",
-        "decimal": 18
-    },
-    {
-        "name": "Standard",
-        "address": "0x9040e237c3bf18347bb00957dc22167d0f2b999d",
         "decimal": 18
     },
     {
@@ -2645,9 +2640,9 @@
         "decimal": 18
     },
     {
-        "name": "Everex",
-        "address": "0xf3db5fa2c66b7af3eb0c0b782510816cbe4813b8",
-        "decimal": 4
+        "name": "Jenny Metaverse DAO Token",
+        "address": "0xa499648fd0e80fd911972bbeb069e4c20e68bf22",
+        "decimal": 18
     },
     {
         "name": "Digg",
@@ -2655,53 +2650,13 @@
         "decimal": 9
     },
     {
-        "name": "Atomic Wallet Token",
-        "address": "0xad22f63404f7305e4713ccbd4f296f34770513f4",
-        "decimal": 8
-    },
-    {
-        "name": "ZTCoin",
-        "address": "0xfe39e6a32acd2af7955cb3d406ba2b55c901f247",
-        "decimal": 18
-    },
-    {
         "name": "Strips Token",
         "address": "0x97872eafd79940c7b24f7bcc1eadb1457347adc9",
         "decimal": 18
     },
     {
-        "name": "Cashaa",
-        "address": "0xe8780b48bdb05f928697a5e8155f672ed91462f7",
-        "decimal": 18
-    },
-    {
-        "name": "BioPassport Coin",
-        "address": "0xc07A150ECAdF2cc352f5586396e344A6b17625EB",
-        "decimal": 9
-    },
-    {
-        "name": "Offshift",
-        "address": "0xabe580e7ee158da464b51ee1a83ac0289622e6be",
-        "decimal": 18
-    },
-    {
-        "name": "Free Coin",
-        "address": "0x2f141ce366a2462f02cea3d12cf93e4dca49e4fd",
-        "decimal": 18
-    },
-    {
-        "name": "Genesis Vision",
-        "address": "0x103c3A209da59d3E7C4A89307e66521e081CFDF0",
-        "decimal": 18
-    },
-    {
-        "name": "Geeq",
-        "address": "0x6B9f031D718dDed0d681c20cB754F97b3BB81b78",
-        "decimal": 18
-    },
-    {
-        "name": "Moeda Loyalty Points",
-        "address": "0x51db5ad35c671a87207d88fc11d593ac0c8415bd",
+        "name": "Standard",
+        "address": "0x9040e237c3bf18347bb00957dc22167d0f2b999d",
         "decimal": 18
     },
     {
@@ -2710,8 +2665,48 @@
         "decimal": 18
     },
     {
+        "name": "Everex",
+        "address": "0xf3db5fa2c66b7af3eb0c0b782510816cbe4813b8",
+        "decimal": 4
+    },
+    {
+        "name": "ZTCoin",
+        "address": "0xfe39e6a32acd2af7955cb3d406ba2b55c901f247",
+        "decimal": 18
+    },
+    {
+        "name": "Cashaa",
+        "address": "0xe8780b48bdb05f928697a5e8155f672ed91462f7",
+        "decimal": 18
+    },
+    {
+        "name": "Genesis Vision",
+        "address": "0x103c3A209da59d3E7C4A89307e66521e081CFDF0",
+        "decimal": 18
+    },
+    {
         "name": "Plasma",
         "address": "0x054D64b73d3D8A21Af3D764eFd76bCaA774f3Bb2",
+        "decimal": 18
+    },
+    {
+        "name": "Moeda Loyalty Points",
+        "address": "0x51db5ad35c671a87207d88fc11d593ac0c8415bd",
+        "decimal": 18
+    },
+    {
+        "name": "Offshift",
+        "address": "0xabe580e7ee158da464b51ee1a83ac0289622e6be",
+        "decimal": 18
+    },
+    {
+        "name": "BioPassport Coin",
+        "address": "0xc07A150ECAdF2cc352f5586396e344A6b17625EB",
+        "decimal": 9
+    },
+    {
+        "name": "Free Coin",
+        "address": "0x2f141ce366a2462f02cea3d12cf93e4dca49e4fd",
         "decimal": 18
     },
     {
@@ -2720,8 +2715,18 @@
         "decimal": 10
     },
     {
+        "name": "Atomic Wallet Token",
+        "address": "0xad22f63404f7305e4713ccbd4f296f34770513f4",
+        "decimal": 8
+    },
+    {
         "name": "Nectar",
         "address": "0x9e46a38f5daabe8683e10793b06749eef7d733d1",
+        "decimal": 18
+    },
+    {
+        "name": "PIKA",
+        "address": "0x60f5672a271c7e39e787427a18353ba59a4a3578",
         "decimal": 18
     },
     {
@@ -2735,18 +2740,23 @@
         "decimal": 18
     },
     {
+        "name": "Pinknode Token",
+        "address": "0xaf691508ba57d416f895e32a1616da1024e882d2",
+        "decimal": 18
+    },
+    {
         "name": "ArcBlock",
         "address": "0xb98d4c97425d9908e66e53a6fdf673acca0be986",
         "decimal": 18
     },
     {
-        "name": "PIKA",
-        "address": "0x60f5672a271c7e39e787427a18353ba59a4a3578",
+        "name": "KAN",
+        "address": "0x1410434b0346f5be678d0fb554e5c7ab620f8f4a",
         "decimal": 18
     },
     {
-        "name": "KAN",
-        "address": "0x1410434b0346f5be678d0fb554e5c7ab620f8f4a",
+        "name": "Lamden Tau",
+        "address": "0xc27a2f05fa577a83ba0fdb4c38443c0718356501",
         "decimal": 18
     },
     {
@@ -2775,28 +2785,8 @@
         "decimal": 18
     },
     {
-        "name": "TE-FOOD/TustChain",
-        "address": "0x2Ab6Bb8408ca3199B8Fa6C92d5b455F820Af03c4",
-        "decimal": 18
-    },
-    {
-        "name": "Pinknode Token",
-        "address": "0xaf691508ba57d416f895e32a1616da1024e882d2",
-        "decimal": 18
-    },
-    {
-        "name": "Salt",
-        "address": "0x4156D3342D5c385a87D264F90653733592000581",
-        "decimal": 8
-    },
-    {
-        "name": "Bread",
-        "address": "0x558ec3152e2eb2174905cd19aea4e34a23de9ad6",
-        "decimal": 18
-    },
-    {
-        "name": "EligmaToken",
-        "address": "0xc7c03b8a3fc5719066e185ea616e87b88eba44a3",
+        "name": "Gelato Network Token",
+        "address": "0x15b7c0c907e4c6b9adaaaabc300c08991d6cea05",
         "decimal": 18
     },
     {
@@ -2805,18 +2795,28 @@
         "decimal": 18
     },
     {
-        "name": "UnmarshalToken",
-        "address": "0x5a666c7d92e5fa7edcb6390e4efd6d0cdd69cf37",
+        "name": "EligmaToken",
+        "address": "0xc7c03b8a3fc5719066e185ea616e87b88eba44a3",
         "decimal": 18
     },
     {
-        "name": "Gelato Network Token",
-        "address": "0x15b7c0c907e4c6b9adaaaabc300c08991d6cea05",
+        "name": "Bread",
+        "address": "0x558ec3152e2eb2174905cd19aea4e34a23de9ad6",
         "decimal": 18
+    },
+    {
+        "name": "Salt",
+        "address": "0x4156D3342D5c385a87D264F90653733592000581",
+        "decimal": 8
     },
     {
         "name": "Oraichain Token",
         "address": "0x4c11249814f11b9346808179cf06e71ac328c1b5",
+        "decimal": 18
+    },
+    {
+        "name": "UnmarshalToken",
+        "address": "0x5a666c7d92e5fa7edcb6390e4efd6d0cdd69cf37",
         "decimal": 18
     },
     {
@@ -2825,8 +2825,8 @@
         "decimal": 18
     },
     {
-        "name": "Lamden Tau",
-        "address": "0xc27a2f05fa577a83ba0fdb4c38443c0718356501",
+        "name": "WPPToken",
+        "address": "0x1955d744F9435522Be508D1Ba60E3c12D0690B6A",
         "decimal": 18
     },
     {
@@ -2835,18 +2835,8 @@
         "decimal": 18
     },
     {
-        "name": "ZBToken",
-        "address": "0xbd0793332e9fb844a52a205a233ef27a5b34b927",
-        "decimal": 18
-    },
-    {
-        "name": "WPPToken",
-        "address": "0x1955d744F9435522Be508D1Ba60E3c12D0690B6A",
-        "decimal": 18
-    },
-    {
-        "name": "BZ",
-        "address": "0x4375e7ad8a01b8ec3ed041399f62d9cd120e0063",
+        "name": "TE-FOOD/TustChain",
+        "address": "0x2Ab6Bb8408ca3199B8Fa6C92d5b455F820Af03c4",
         "decimal": 18
     },
     {
@@ -2860,18 +2850,13 @@
         "decimal": 18
     },
     {
-        "name": "veCRV-DAO yVault",
-        "address": "0xc5bddf9843308380375a611c18b50fb9341f502a",
+        "name": "ZBToken",
+        "address": "0xbd0793332e9fb844a52a205a233ef27a5b34b927",
         "decimal": 18
     },
     {
-        "name": "dHedge DAO Token",
-        "address": "0xca1207647Ff814039530D7d35df0e1Dd2e91Fa84",
-        "decimal": 18
-    },
-    {
-        "name": "ICONOMI",
-        "address": "0x888666CA69E0f178DED6D75b5726Cee99A87D698",
+        "name": "BZ",
+        "address": "0x4375e7ad8a01b8ec3ed041399f62d9cd120e0063",
         "decimal": 18
     },
     {
@@ -2880,8 +2865,43 @@
         "decimal": 18
     },
     {
+        "name": "dHedge DAO Token",
+        "address": "0xca1207647Ff814039530D7d35df0e1Dd2e91Fa84",
+        "decimal": 18
+    },
+    {
+        "name": "veCRV-DAO yVault",
+        "address": "0xc5bddf9843308380375a611c18b50fb9341f502a",
+        "decimal": 18
+    },
+    {
+        "name": "CRPT",
+        "address": "0x08389495d7456e1951ddf7c3a1314a4bfb646d8b",
+        "decimal": 18
+    },
+    {
         "name": "Float Bank",
         "address": "0x24a6a37576377f63f194caa5f518a60f45b42921",
+        "decimal": 18
+    },
+    {
+        "name": "ICONOMI",
+        "address": "0x888666CA69E0f178DED6D75b5726Cee99A87D698",
+        "decimal": 18
+    },
+    {
+        "name": "Ultiledger",
+        "address": "0xe884cc2795b9c45beeac0607da9539fd571ccf85",
+        "decimal": 18
+    },
+    {
+        "name": "ERC20",
+        "address": "0xc3761eb917cd790b30dad99f6cc5b4ff93c4f9ea",
+        "decimal": 18
+    },
+    {
+        "name": "Decentr",
+        "address": "0x30f271C9E86D2B7d00a6376Cd96A1cFBD5F0b9b3",
         "decimal": 18
     },
     {
@@ -2895,34 +2915,19 @@
         "decimal": 18
     },
     {
-        "name": "Decentr",
-        "address": "0x30f271C9E86D2B7d00a6376Cd96A1cFBD5F0b9b3",
-        "decimal": 18
-    },
-    {
-        "name": "Ultiledger",
-        "address": "0xe884cc2795b9c45beeac0607da9539fd571ccf85",
-        "decimal": 18
-    },
-    {
-        "name": "CRPT",
-        "address": "0x08389495d7456e1951ddf7c3a1314a4bfb646d8b",
-        "decimal": 18
-    },
-    {
-        "name": "GoBlank Token",
-        "address": "0x41a3dba3d677e573636ba691a70ff2d606c29666",
-        "decimal": 18
-    },
-    {
-        "name": "ERC20",
-        "address": "0xc3761eb917cd790b30dad99f6cc5b4ff93c4f9ea",
-        "decimal": 18
-    },
-    {
         "name": "GRID",
         "address": "0x12b19d3e2ccc14da04fae33e63652ce469b3f2fd",
         "decimal": 12
+    },
+    {
+        "name": "Tidal Token",
+        "address": "0x29cbd0510eec0327992cd6006e63f9fa8e7f33b7",
+        "decimal": 18
+    },
+    {
+        "name": "FOAM Token",
+        "address": "0x4946fcea7c692606e8908002e55a582af44ac121",
+        "decimal": 18
     },
     {
         "name": "BAX",
@@ -2932,11 +2937,6 @@
     {
         "name": "NAGA Coin",
         "address": "0x72dd4b6bd852a3aa172be4d6c5a6dbec588cf131",
-        "decimal": 18
-    },
-    {
-        "name": "FOAM Token",
-        "address": "0x4946fcea7c692606e8908002e55a582af44ac121",
         "decimal": 18
     },
     {
@@ -2950,18 +2950,13 @@
         "decimal": 18
     },
     {
-        "name": "Tidal Token",
-        "address": "0x29cbd0510eec0327992cd6006e63f9fa8e7f33b7",
-        "decimal": 18
-    },
-    {
         "name": "Stratos Token",
         "address": "0x08c32b0726c5684024ea6e141c50ade9690bbdcc",
         "decimal": 18
     },
     {
-        "name": "InsurAce",
-        "address": "0x544c42fbb96b39b21df61cf322b5edc285ee7429",
+        "name": "GoBlank Token",
+        "address": "0x41a3dba3d677e573636ba691a70ff2d606c29666",
         "decimal": 18
     },
     {
@@ -2970,8 +2965,8 @@
         "decimal": 18
     },
     {
-        "name": "DaTa eXchange Token",
-        "address": "0x765f0c16d1ddc279295c1a7c24b0883f62d33f75",
+        "name": "InsurAce",
+        "address": "0x544c42fbb96b39b21df61cf322b5edc285ee7429",
         "decimal": 18
     },
     {
@@ -2985,19 +2980,9 @@
         "decimal": 18
     },
     {
-        "name": "Knoxstertoken",
-        "address": "0x16484d73Ac08d2355F466d448D2b79D2039F6EBB",
-        "decimal": 18
-    },
-    {
         "name": "Populous",
         "address": "0xd4fa1460f537bb9085d22c7bccb5dd450ef28e3a",
         "decimal": 8
-    },
-    {
-        "name": "Adshares",
-        "address": "0xcfcecfe2bd2fed07a9145222e8a7ad9cf1ccd22a",
-        "decimal": 11
     },
     {
         "name": "Measurable Data Token",
@@ -3005,8 +2990,18 @@
         "decimal": 18
     },
     {
-        "name": "Antimatter.Finance Governance Token",
-        "address": "0x9b99cca871be05119b2012fd4474731dd653febe",
+        "name": "Adshares",
+        "address": "0xcfcecfe2bd2fed07a9145222e8a7ad9cf1ccd22a",
+        "decimal": 11
+    },
+    {
+        "name": "DaTa eXchange Token",
+        "address": "0x765f0c16d1ddc279295c1a7c24b0883f62d33f75",
+        "decimal": 18
+    },
+    {
+        "name": "FOX",
+        "address": "0xc770eefad204b5180df6a14ee197d99d808ee52d",
         "decimal": 18
     },
     {
@@ -3020,33 +3015,18 @@
         "decimal": 18
     },
     {
+        "name": "Antimatter.Finance Governance Token",
+        "address": "0x9b99cca871be05119b2012fd4474731dd653febe",
+        "decimal": 18
+    },
+    {
+        "name": "Knoxstertoken",
+        "address": "0x16484d73Ac08d2355F466d448D2b79D2039F6EBB",
+        "decimal": 18
+    },
+    {
         "name": "BLOCKv",
         "address": "0x340d2bde5eb28c1eed91b2f790723e3b160613b7",
-        "decimal": 18
-    },
-    {
-        "name": "FOX",
-        "address": "0xc770eefad204b5180df6a14ee197d99d808ee52d",
-        "decimal": 18
-    },
-    {
-        "name": "Walton",
-        "address": "0xb7cb1c96db6b22b0d3d9536e0108d062bd488f74",
-        "decimal": 18
-    },
-    {
-        "name": "Kryll",
-        "address": "0x464ebe77c293e473b48cfe96ddcf88fcf7bfdac0",
-        "decimal": 18
-    },
-    {
-        "name": "DeversiFi Token",
-        "address": "0xdddddd4301a082e62e84e43f474f044423921918",
-        "decimal": 18
-    },
-    {
-        "name": "HOPR Token",
-        "address": "0xf5581dfefd8fb0e4aec526be659cfab1f8c781da",
         "decimal": 18
     },
     {
@@ -3055,8 +3035,13 @@
         "decimal": 18
     },
     {
-        "name": "CocosToken",
-        "address": "0x0c6f5f7d555e7518f6841a79436bd2b1eef03381",
+        "name": "Walton",
+        "address": "0xb7cb1c96db6b22b0d3d9536e0108d062bd488f74",
+        "decimal": 18
+    },
+    {
+        "name": "DeversiFi Token",
+        "address": "0xdddddd4301a082e62e84e43f474f044423921918",
         "decimal": 18
     },
     {
@@ -3070,13 +3055,18 @@
         "decimal": 5
     },
     {
-        "name": "Raiden",
-        "address": "0x255aa6df07540cb5d3d297f0d0d4d84cb52bc8e6",
+        "name": "Kryll",
+        "address": "0x464ebe77c293e473b48cfe96ddcf88fcf7bfdac0",
         "decimal": 18
     },
     {
-        "name": "Student Coin",
-        "address": "0x15b543e986b8c34074dfc9901136d9355a537e7e",
+        "name": "CocosToken",
+        "address": "0x0c6f5f7d555e7518f6841a79436bd2b1eef03381",
+        "decimal": 18
+    },
+    {
+        "name": "HOPR Token",
+        "address": "0xf5581dfefd8fb0e4aec526be659cfab1f8c781da",
         "decimal": 18
     },
     {
@@ -3085,18 +3075,13 @@
         "decimal": 18
     },
     {
-        "name": "TIME",
-        "address": "0x6531f133e6deebe7f2dce5a0441aa7ef330b4e53",
-        "decimal": 8
-    },
-    {
-        "name": "SAN",
-        "address": "0x7c5a0ce9267ed19b22f8cae653f198e3e8daf098",
+        "name": "Raiden",
+        "address": "0x255aa6df07540cb5d3d297f0d0d4d84cb52bc8e6",
         "decimal": 18
     },
     {
-        "name": "Morpheus Infrastructure Token",
-        "address": "0x4a527d8fc13c5203ab24ba0944f4cb14658d1db6",
+        "name": "Cindicator",
+        "address": "0xd4c435f5b09f855c3317c8524cb1f586e42795fa",
         "decimal": 18
     },
     {
@@ -3105,28 +3090,28 @@
         "decimal": 8
     },
     {
-        "name": "Cindicator",
-        "address": "0xd4c435f5b09f855c3317c8524cb1f586e42795fa",
-        "decimal": 18
-    },
-    {
-        "name": "Curate",
-        "address": "0xE1c7E30C42C24582888C758984f6e382096786bd",
+        "name": "TIME",
+        "address": "0x6531f133e6deebe7f2dce5a0441aa7ef330b4e53",
         "decimal": 8
     },
     {
-        "name": "Blockport",
-        "address": "0x327682779bab2bf4d1337e8974ab9de8275a7ca8",
+        "name": "Morpheus Infrastructure Token",
+        "address": "0x4a527d8fc13c5203ab24ba0944f4cb14658d1db6",
+        "decimal": 18
+    },
+    {
+        "name": "SAN",
+        "address": "0x7c5a0ce9267ed19b22f8cae653f198e3e8daf098",
+        "decimal": 18
+    },
+    {
+        "name": "Student Coin",
+        "address": "0x15b543e986b8c34074dfc9901136d9355a537e7e",
         "decimal": 18
     },
     {
         "name": "Fractal Protocol Token",
         "address": "0xf4d861575ecc9493420a3f5a14f85b13f0b50eb3",
-        "decimal": 18
-    },
-    {
-        "name": "AIOZ Network",
-        "address": "0x626e8036deb333b408be468f951bdb42433cbf18",
         "decimal": 18
     },
     {
@@ -3140,9 +3125,24 @@
         "decimal": 18
     },
     {
+        "name": "Blockport",
+        "address": "0x327682779bab2bf4d1337e8974ab9de8275a7ca8",
+        "decimal": 18
+    },
+    {
         "name": "CargoX",
         "address": "0xb6ee9668771a79be7967ee29a63d4184f8097143",
         "decimal": 18
+    },
+    {
+        "name": "AIOZ Network",
+        "address": "0x626e8036deb333b408be468f951bdb42433cbf18",
+        "decimal": 18
+    },
+    {
+        "name": "Curate",
+        "address": "0xE1c7E30C42C24582888C758984f6e382096786bd",
+        "decimal": 8
     },
     {
         "name": "PoolTogether",
@@ -3165,11 +3165,6 @@
         "decimal": 18
     },
     {
-        "name": "Pendle",
-        "address": "0x808507121b80c02388fad14726482e061b8da827",
-        "decimal": 18
-    },
-    {
         "name": "BOSAGORA",
         "address": "0x746dda2ea243400d5a63e0700f190ab79f06489e",
         "decimal": 7
@@ -3180,13 +3175,13 @@
         "decimal": 18
     },
     {
-        "name": "Polkamon",
-        "address": "0x1796ae0b0fa4862485106a0de9b654efe301d0b2",
+        "name": "Shopping.io",
+        "address": "0x9b02dd390a603add5c07f9fd9175b7dabe8d63b7",
         "decimal": 18
     },
     {
-        "name": "PlatonCoin",
-        "address": "0x429D83Bb0DCB8cdd5311e34680ADC8B12070a07f",
+        "name": "Quantstamp",
+        "address": "0x99ea4db9ee77acd40b119bd1dc4e33e1c070b80d",
         "decimal": 18
     },
     {
@@ -3195,8 +3190,13 @@
         "decimal": 18
     },
     {
-        "name": "USDK",
-        "address": "0x1c48f86ae57291f7686349f12601910bd8d470bb",
+        "name": "Pendle",
+        "address": "0x808507121b80c02388fad14726482e061b8da827",
+        "decimal": 18
+    },
+    {
+        "name": "Polkamon",
+        "address": "0x1796ae0b0fa4862485106a0de9b654efe301d0b2",
         "decimal": 18
     },
     {
@@ -3205,18 +3205,18 @@
         "decimal": 4
     },
     {
-        "name": "Quantstamp",
-        "address": "0x99ea4db9ee77acd40b119bd1dc4e33e1c070b80d",
-        "decimal": 18
-    },
-    {
         "name": "Fusion",
         "address": "0xd0352a019e9ab9d757776f532377aaebd36fd541",
         "decimal": 18
     },
     {
-        "name": "Shopping.io",
-        "address": "0x9b02dd390a603add5c07f9fd9175b7dabe8d63b7",
+        "name": "USDK",
+        "address": "0x1c48f86ae57291f7686349f12601910bd8d470bb",
+        "decimal": 18
+    },
+    {
+        "name": "PlatonCoin",
+        "address": "0x429D83Bb0DCB8cdd5311e34680ADC8B12070a07f",
         "decimal": 18
     },
     {
@@ -3230,38 +3230,18 @@
         "decimal": 18
     },
     {
-        "name": "Moss Coin",
-        "address": "0x865ec58b06bf6305b886793aa20a2da31d034e68",
-        "decimal": 18
-    },
-    {
         "name": "QASH",
         "address": "0x618e75ac90b12c6049ba3b27f5d5f8651b0037f6",
         "decimal": 6
     },
     {
+        "name": "Moss Coin",
+        "address": "0x865ec58b06bf6305b886793aa20a2da31d034e68",
+        "decimal": 18
+    },
+    {
         "name": "Guaranteed Entrance Token",
         "address": "0x8a854288a5976036a725879164ca3e91d30c6a1b",
-        "decimal": 18
-    },
-    {
-        "name": "Dragon",
-        "address": "0x419c4db4b9e25d6db2ad9691ccb832c8d9fda05e",
-        "decimal": 18
-    },
-    {
-        "name": "Veritaseum",
-        "address": "0x8f3470A7388c05eE4e7AF3d01D8C722b0FF52374",
-        "decimal": 18
-    },
-    {
-        "name": "LON Token",
-        "address": "0x0000000000095413afc295d19edeb1ad7b71c952",
-        "decimal": 18
-    },
-    {
-        "name": "DSLA",
-        "address": "0x3affcca64c2a6f4e3b6bd9c64cd2c969efd1ecbe",
         "decimal": 18
     },
     {
@@ -3270,9 +3250,29 @@
         "decimal": 18
     },
     {
+        "name": "LON Token",
+        "address": "0x0000000000095413afc295d19edeb1ad7b71c952",
+        "decimal": 18
+    },
+    {
+        "name": "Dragon",
+        "address": "0x419c4db4b9e25d6db2ad9691ccb832c8d9fda05e",
+        "decimal": 18
+    },
+    {
+        "name": "DSLA",
+        "address": "0x3affcca64c2a6f4e3b6bd9c64cd2c969efd1ecbe",
+        "decimal": 18
+    },
+    {
         "name": "BitMartToken",
         "address": "0x986EE2B944c42D017F52Af21c4c69B84DBeA35d8",
         "decimal": 18
+    },
+    {
+        "name": "Nuls",
+        "address": "0xa2791bdf2d5055cda4d46ec17f9f429568275047",
+        "decimal": 8
     },
     {
         "name": "BTU Protocol",
@@ -3285,9 +3285,9 @@
         "decimal": 18
     },
     {
-        "name": "Nuls",
-        "address": "0xa2791bdf2d5055cda4d46ec17f9f429568275047",
-        "decimal": 8
+        "name": "Veritaseum",
+        "address": "0x8f3470A7388c05eE4e7AF3d01D8C722b0FF52374",
+        "decimal": 18
     },
     {
         "name": "Dock",
@@ -3300,13 +3300,13 @@
         "decimal": 18
     },
     {
-        "name": "dForce",
-        "address": "0x431ad2ff6a9c365805ebad47ee021148d6f7dbe0",
+        "name": "PAID Network",
+        "address": "0x1614f18fc94f47967a3fbe5ffcd46d4e7da3d787",
         "decimal": 18
     },
     {
-        "name": "PAID Network",
-        "address": "0x1614f18fc94f47967a3fbe5ffcd46d4e7da3d787",
+        "name": "dForce",
+        "address": "0x431ad2ff6a9c365805ebad47ee021148d6f7dbe0",
         "decimal": 18
     },
     {
@@ -3315,13 +3315,18 @@
         "decimal": 9
     },
     {
+        "name": "Dusk Network",
+        "address": "0x940a2db1b7008b6c776d4faaca729d6d4a4aa551",
+        "decimal": 18
+    },
+    {
         "name": "UniLend Finance Token",
         "address": "0x0202Be363B8a4820f3F4DE7FaF5224fF05943AB1",
         "decimal": 18
     },
     {
-        "name": "Dusk Network",
-        "address": "0x940a2db1b7008b6c776d4faaca729d6d4a4aa551",
+        "name": "Iron Bank EUR",
+        "address": "0x96e61422b6a9ba0e068b6c5add4ffabc6a4aae27",
         "decimal": 18
     },
     {
@@ -3340,8 +3345,8 @@
         "decimal": 18
     },
     {
-        "name": "Iron Bank EUR",
-        "address": "0x96e61422b6a9ba0e068b6c5add4ffabc6a4aae27",
+        "name": "Frontier Token",
+        "address": "0xf8C3527CC04340b208C854E985240c02F7B7793f",
         "decimal": 18
     },
     {
@@ -3350,18 +3355,13 @@
         "decimal": 18
     },
     {
-        "name": "Frontier Token",
-        "address": "0xf8C3527CC04340b208C854E985240c02F7B7793f",
+        "name": "Marlin POND",
+        "address": "0x57b946008913b82e4df85f501cbaed910e58d26c",
         "decimal": 18
     },
     {
         "name": "mStable USD",
         "address": "0xe2f2a5c287993345a840db3b0845fbc70f5935a5",
-        "decimal": 18
-    },
-    {
-        "name": "Marlin POND",
-        "address": "0x57b946008913b82e4df85f501cbaed910e58d26c",
         "decimal": 18
     },
     {
@@ -3385,8 +3385,8 @@
         "decimal": 18
     },
     {
-        "name": "CoinDash Token",
-        "address": "0x177d39ac676ed1c67a2b268ad7f1e58826e5b0af",
+        "name": "Aergo",
+        "address": "0x91Af0fBB28ABA7E31403Cb457106Ce79397FD4E6",
         "decimal": 18
     },
     {
@@ -3395,18 +3395,18 @@
         "decimal": 8
     },
     {
+        "name": "TORN Token",
+        "address": "0x77777feddddffc19ff86db637967013e6c6a116c",
+        "decimal": 18
+    },
+    {
         "name": "STAKE",
         "address": "0x0Ae055097C6d159879521C384F1D2123D1f195e6",
         "decimal": 18
     },
     {
-        "name": "Aergo",
-        "address": "0x91Af0fBB28ABA7E31403Cb457106Ce79397FD4E6",
-        "decimal": 18
-    },
-    {
-        "name": "TORN Token",
-        "address": "0x77777feddddffc19ff86db637967013e6c6a116c",
+        "name": "DIAToken",
+        "address": "0x84cA8bc7997272c7CfB4D0Cd3D55cd942B3c9419",
         "decimal": 18
     },
     {
@@ -3420,8 +3420,8 @@
         "decimal": 18
     },
     {
-        "name": "DIAToken",
-        "address": "0x84cA8bc7997272c7CfB4D0Cd3D55cd942B3c9419",
+        "name": "Hegic",
+        "address": "0x584bC13c7D411c00c01A62e8019472dE68768430",
         "decimal": 18
     },
     {
@@ -3430,8 +3430,18 @@
         "decimal": 18
     },
     {
-        "name": "Hegic",
-        "address": "0x584bC13c7D411c00c01A62e8019472dE68768430",
+        "name": "Bytom",
+        "address": "0xcb97e65f07da24d46bcdd078ebebd7c6e6e3d750",
+        "decimal": 8
+    },
+    {
+        "name": "stakedETH",
+        "address": "0xdfe66b14d37c77f4e9b180ceb433d1b164f0281d",
+        "decimal": 18
+    },
+    {
+        "name": "Wrapped NXM",
+        "address": "0x0d438f3b5175bebc262bf23753c1e53d03432bde",
         "decimal": 18
     },
     {
@@ -3445,18 +3455,8 @@
         "decimal": 18
     },
     {
-        "name": "stakedETH",
-        "address": "0xdfe66b14d37c77f4e9b180ceb433d1b164f0281d",
-        "decimal": 18
-    },
-    {
-        "name": "Bytom",
-        "address": "0xcb97e65f07da24d46bcdd078ebebd7c6e6e3d750",
-        "decimal": 8
-    },
-    {
-        "name": "Wrapped NXM",
-        "address": "0x0d438f3b5175bebc262bf23753c1e53d03432bde",
+        "name": "CoinDash Token",
+        "address": "0x177d39ac676ed1c67a2b268ad7f1e58826e5b0af",
         "decimal": 18
     },
     {
@@ -3465,13 +3465,18 @@
         "decimal": 2
     },
     {
+        "name": "MCDEX Token",
+        "address": "0x4e352cF164E64ADCBad318C3a1e222E9EBa4Ce42",
+        "decimal": 18
+    },
+    {
         "name": "CarryToken",
         "address": "0x115ec79f1de567ec68b7ae7eda501b406626478e",
         "decimal": 18
     },
     {
-        "name": "MCDEX Token",
-        "address": "0x4e352cF164E64ADCBad318C3a1e222E9EBa4Ce42",
+        "name": "bZx Protocol Token",
+        "address": "0x56d811088235F11C8920698a204A5010a788f4b3",
         "decimal": 18
     },
     {
@@ -3490,18 +3495,13 @@
         "decimal": 18
     },
     {
-        "name": "LockTrip",
-        "address": "0x5e3346444010135322268a4630d2ed5f8d09446c",
-        "decimal": 18
-    },
-    {
-        "name": "bZx Protocol Token",
-        "address": "0x56d811088235F11C8920698a204A5010a788f4b3",
-        "decimal": 18
-    },
-    {
         "name": "MXCToken",
         "address": "0x5ca381bbfb58f0092df149bd3d243b08b9a8386e",
+        "decimal": 18
+    },
+    {
+        "name": "LockTrip",
+        "address": "0x5e3346444010135322268a4630d2ed5f8d09446c",
         "decimal": 18
     },
     {
@@ -3530,19 +3530,9 @@
         "decimal": 4
     },
     {
-        "name": "Presearch",
-        "address": "0xEC213F83defB583af3A000B1c0ada660b1902A0F",
-        "decimal": 18
-    },
-    {
         "name": "Gemini dollar",
         "address": "0x056fd409e1d7a124bd7017459dfea2f387b6d5cd",
         "decimal": 2
-    },
-    {
-        "name": "Litentry",
-        "address": "0xb59490ab09a0f526cc7305822ac65f2ab12f9723",
-        "decimal": 18
     },
     {
         "name": "Propy",
@@ -3555,13 +3545,18 @@
         "decimal": 18
     },
     {
+        "name": "Presearch",
+        "address": "0xEC213F83defB583af3A000B1c0ada660b1902A0F",
+        "decimal": 18
+    },
+    {
         "name": "Ampleforth Governance",
         "address": "0x77fba179c79de5b7653f68b5039af940ada60ce0",
         "decimal": 18
     },
     {
-        "name": "BarnBridge Governance Token",
-        "address": "0x0391D2021f89DC339F60Fff84546EA23E337750f",
+        "name": "Litentry",
+        "address": "0xb59490ab09a0f526cc7305822ac65f2ab12f9723",
         "decimal": 18
     },
     {
@@ -3570,13 +3565,23 @@
         "decimal": 8
     },
     {
+        "name": "Gitcoin",
+        "address": "0xde30da39c46104798bb5aa3fe8b9e0e1f348163f",
+        "decimal": 18
+    },
+    {
         "name": "SpookyToken",
         "address": "0x55af5865807b196bd0197e0902746f31fbccfa58",
         "decimal": 18
     },
     {
-        "name": "Gitcoin",
-        "address": "0xde30da39c46104798bb5aa3fe8b9e0e1f348163f",
+        "name": "Smooth Love Potion",
+        "address": "0xcc8fa225d80b9c7d42f96e9570156c65d6caaa25",
+        "decimal": 0
+    },
+    {
+        "name": "LCX",
+        "address": "0x037a54aab062628c9bbae1fdb1583c195585fe41",
         "decimal": 18
     },
     {
@@ -3585,14 +3590,9 @@
         "decimal": 8
     },
     {
-        "name": "LCX",
-        "address": "0x037a54aab062628c9bbae1fdb1583c195585fe41",
+        "name": "BarnBridge Governance Token",
+        "address": "0x0391D2021f89DC339F60Fff84546EA23E337750f",
         "decimal": 18
-    },
-    {
-        "name": "Smooth Love Potion",
-        "address": "0xcc8fa225d80b9c7d42f96e9570156c65d6caaa25",
-        "decimal": 0
     },
     {
         "name": "Quickswap",
@@ -3610,14 +3610,14 @@
         "decimal": 18
     },
     {
-        "name": "Synth sUSD",
-        "address": "0x57ab1ec28d129707052df4df418d58a2d46d5f51",
-        "decimal": 18
-    },
-    {
         "name": "PowerLedger",
         "address": "0x595832f8fc6bf59c85c527fec3740a1b7a361269",
         "decimal": 6
+    },
+    {
+        "name": "Synth sUSD",
+        "address": "0x57ab1ec28d129707052df4df418d58a2d46d5f51",
+        "decimal": 18
     },
     {
         "name": "pTokens BTC",
@@ -3645,8 +3645,8 @@
         "decimal": 18
     },
     {
-        "name": "MATH Token",
-        "address": "0x08d967bb0134f2d07f7cfb6e246680c53927dd30",
+        "name": "Crypto20",
+        "address": "0x26e75307fc0c021472feb8f727839531f112f317",
         "decimal": 18
     },
     {
@@ -3655,8 +3655,8 @@
         "decimal": 18
     },
     {
-        "name": "Crypto20",
-        "address": "0x26e75307fc0c021472feb8f727839531f112f317",
+        "name": "MATH Token",
+        "address": "0x08d967bb0134f2d07f7cfb6e246680c53927dd30",
         "decimal": 18
     },
     {
@@ -3680,23 +3680,23 @@
         "decimal": 18
     },
     {
-        "name": "Lido DAO Token",
-        "address": "0x5a98fcbea516cf06857215779fd812ca3bef1b32",
-        "decimal": 18
-    },
-    {
         "name": "Ankr Eth2 Reward Bearing Certificate",
         "address": "0xE95A203B1a91a908F9B9CE46459d101078c2c3cb",
         "decimal": 18
     },
     {
-        "name": "QuarkChain Token",
-        "address": "0xea26c4ac16d4a5a106820bc8aee85fd0b7b2b664",
+        "name": "Lido DAO Token",
+        "address": "0x5a98fcbea516cf06857215779fd812ca3bef1b32",
         "decimal": 18
     },
     {
         "name": "Uquid Coin",
         "address": "0x8806926Ab68EB5a7b909DcAf6FdBe5d93271D6e2",
+        "decimal": 18
+    },
+    {
+        "name": "QuarkChain Token",
+        "address": "0xea26c4ac16d4a5a106820bc8aee85fd0b7b2b664",
         "decimal": 18
     },
     {
@@ -3750,11 +3750,6 @@
         "decimal": 18
     },
     {
-        "name": "Dawn",
-        "address": "0x580c8520deda0a441522aeae0f9f7a5f29629afa",
-        "decimal": 18
-    },
-    {
         "name": "FEGtoken",
         "address": "0x389999216860ab8e0175387a0c90e5c52522c945",
         "decimal": 9
@@ -3763,6 +3758,16 @@
         "name": "TrueFi",
         "address": "0x4c19596f5aaff459fa38b0f7ed92f11ae6543784",
         "decimal": 8
+    },
+    {
+        "name": "Dawn",
+        "address": "0x580c8520deda0a441522aeae0f9f7a5f29629afa",
+        "decimal": 18
+    },
+    {
+        "name": "Frax Share",
+        "address": "0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0",
+        "decimal": 18
     },
     {
         "name": "Numeraire",
@@ -3775,8 +3780,8 @@
         "decimal": 18
     },
     {
-        "name": "Frax Share",
-        "address": "0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0",
+        "name": "Bifrost",
+        "address": "0x0c7D5ae016f806603CB1782bEa29AC69471CAb9c",
         "decimal": 18
     },
     {
@@ -3785,23 +3790,8 @@
         "decimal": 18
     },
     {
-        "name": "Bifrost",
-        "address": "0x0c7D5ae016f806603CB1782bEa29AC69471CAb9c",
-        "decimal": 18
-    },
-    {
-        "name": "Energy Web Token Bridged",
-        "address": "0x178c820f862b14f316509ec36b13123da19a6054",
-        "decimal": 18
-    },
-    {
-        "name": "RLC",
-        "address": "0x607F4C5BB672230e8672085532f7e901544a7375",
-        "decimal": 9
-    },
-    {
-        "name": "Dogelon",
-        "address": "0x761d38e5ddf6ccf6cf7c55759d5210750b5d60f3",
+        "name": "Eden",
+        "address": "0x1559fa1b8f28238fd5d76d9f434ad86fd20d1559",
         "decimal": 18
     },
     {
@@ -3810,9 +3800,9 @@
         "decimal": 18
     },
     {
-        "name": "Eden",
-        "address": "0x1559fa1b8f28238fd5d76d9f434ad86fd20d1559",
-        "decimal": 18
+        "name": "RLC",
+        "address": "0x607F4C5BB672230e8672085532f7e901544a7375",
+        "decimal": 9
     },
     {
         "name": "OriginToken",
@@ -3825,13 +3815,23 @@
         "decimal": 18
     },
     {
+        "name": "Dogelon",
+        "address": "0x761d38e5ddf6ccf6cf7c55759d5210750b5d60f3",
+        "decimal": 18
+    },
+    {
+        "name": "Energy Web Token Bridged",
+        "address": "0x178c820f862b14f316509ec36b13123da19a6054",
+        "decimal": 18
+    },
+    {
         "name": "Token Prometeus Network",
         "address": "0xfc82bb4ba86045af6f327323a46e80412b91b27d",
         "decimal": 18
     },
     {
-        "name": "Trace",
-        "address": "0xaa7a9ca87d3694b5755f213b5d04094b8d0f0a6f",
+        "name": "Mask Network",
+        "address": "0x69af81e73a73b40adf4f3d4223cd9b1ece623074",
         "decimal": 18
     },
     {
@@ -3840,8 +3840,8 @@
         "decimal": 18
     },
     {
-        "name": "Mask Network",
-        "address": "0x69af81e73a73b40adf4f3d4223cd9b1ece623074",
+        "name": "Trace",
+        "address": "0xaa7a9ca87d3694b5755f213b5d04094b8d0f0a6f",
         "decimal": 18
     },
     {
@@ -3860,6 +3860,11 @@
         "decimal": 18
     },
     {
+        "name": "DODO bird",
+        "address": "0x43Dfc4159D86F3A37A5A4B3D4580b888ad7d4DDd",
+        "decimal": 18
+    },
+    {
         "name": "StatusNetwork",
         "address": "0x744d70fdbe2ba4cf95131626614a1763df805b9e",
         "decimal": 18
@@ -3867,11 +3872,6 @@
     {
         "name": "BitMax token",
         "address": "0xcca0c9c383076649604eE31b20248BC04FdF61cA",
-        "decimal": 18
-    },
-    {
-        "name": "DODO bird",
-        "address": "0x43Dfc4159D86F3A37A5A4B3D4580b888ad7d4DDd",
         "decimal": 18
     },
     {
@@ -3895,18 +3895,8 @@
         "decimal": 18
     },
     {
-        "name": "KEEP Token",
-        "address": "0x85eee30c52b0b379b046fb0f85f4f3dc3009afec",
-        "decimal": 18
-    },
-    {
         "name": "XY Oracle",
         "address": "0x55296f69f40ea6d20e478533c15a6b08b654e758",
-        "decimal": 18
-    },
-    {
-        "name": "Tribe",
-        "address": "0xc7283b66eb1eb5fb86327f08e1b5816b0720212b",
         "decimal": 18
     },
     {
@@ -3915,13 +3905,18 @@
         "decimal": 8
     },
     {
-        "name": "Swipe",
-        "address": "0x8ce9137d39326ad0cd6491fb5cc0cba0e089b6a9",
+        "name": "KEEP Token",
+        "address": "0x85eee30c52b0b379b046fb0f85f4f3dc3009afec",
         "decimal": 18
     },
     {
-        "name": "Pundi X Token",
-        "address": "0x0fd10b9899882a6f2fcb5c371e17e70fdee00c38",
+        "name": "Tribe",
+        "address": "0xc7283b66eb1eb5fb86327f08e1b5816b0720212b",
+        "decimal": 18
+    },
+    {
+        "name": "Swipe",
+        "address": "0x8ce9137d39326ad0cd6491fb5cc0cba0e089b6a9",
         "decimal": 18
     },
     {
@@ -3930,18 +3925,13 @@
         "decimal": 18
     },
     {
+        "name": "Pundi X Token",
+        "address": "0x0fd10b9899882a6f2fcb5c371e17e70fdee00c38",
+        "decimal": 18
+    },
+    {
         "name": "Frax",
         "address": "0x853d955acef822db058eb8505911ed77f175b99e",
-        "decimal": 18
-    },
-    {
-        "name": "Fei USD",
-        "address": "0x956F47F50A910163D8BF957Cf5846D573E7f87CA",
-        "decimal": 18
-    },
-    {
-        "name": "Illuvium",
-        "address": "0x767fe9edc9e0df98e07454847909b5e959d7ca0e",
         "decimal": 18
     },
     {
@@ -3950,28 +3940,18 @@
         "decimal": 18
     },
     {
+        "name": "Illuvium",
+        "address": "0x767fe9edc9e0df98e07454847909b5e959d7ca0e",
+        "decimal": 18
+    },
+    {
+        "name": "Fei USD",
+        "address": "0x956F47F50A910163D8BF957Cf5846D573E7f87CA",
+        "decimal": 18
+    },
+    {
         "name": "LoopringCoin V2",
         "address": "0xbbbbca6a901c926f240b89eacb641d8aec7aeafd",
-        "decimal": 18
-    },
-    {
-        "name": "Golem Network Token",
-        "address": "0x7DD9c5Cba05E151C895FDe1CF355C9A1D5DA6429",
-        "decimal": 18
-    },
-    {
-        "name": "Gnosis",
-        "address": "0x6810e776880c02933d47db1b9fc05908e5386b96",
-        "decimal": 18
-    },
-    {
-        "name": "Injective Token",
-        "address": "0xe28b3B32B6c345A34Ff64674606124Dd5Aceca30",
-        "decimal": 18
-    },
-    {
-        "name": "Rocket Pool",
-        "address": "0xb4efd85c19999d84251304bda99e90b92300bd93",
         "decimal": 18
     },
     {
@@ -3980,9 +3960,29 @@
         "decimal": 18
     },
     {
+        "name": "Golem Network Token",
+        "address": "0x7DD9c5Cba05E151C895FDe1CF355C9A1D5DA6429",
+        "decimal": 18
+    },
+    {
+        "name": "Injective Token",
+        "address": "0xe28b3B32B6c345A34Ff64674606124Dd5Aceca30",
+        "decimal": 18
+    },
+    {
+        "name": "Gnosis",
+        "address": "0x6810e776880c02933d47db1b9fc05908e5386b96",
+        "decimal": 18
+    },
+    {
         "name": "DENT",
         "address": "0x3597bfd533a99c9aa083587b074434e61eb0a258",
         "decimal": 8
+    },
+    {
+        "name": "Rocket Pool",
+        "address": "0xb4efd85c19999d84251304bda99e90b92300bd93",
+        "decimal": 18
     },
     {
         "name": "WAX Token",
@@ -4015,13 +4015,13 @@
         "decimal": 18
     },
     {
-        "name": "SAND",
-        "address": "0x3845badAde8e6dFF049820680d1F14bD3903a5d0",
+        "name": "1INCH Token",
+        "address": "0x111111111117dc0aa78b770fa6a738034120c302",
         "decimal": 18
     },
     {
-        "name": "1INCH Token",
-        "address": "0x111111111117dc0aa78b770fa6a738034120c302",
+        "name": "SAND",
+        "address": "0x3845badAde8e6dFF049820680d1F14bD3903a5d0",
         "decimal": 18
     },
     {
@@ -4040,14 +4040,14 @@
         "decimal": 18
     },
     {
-        "name": "MEDX TOKEN",
-        "address": "0xfd1e80508f243e64ce234ea88a5fd2827c71d4b7",
-        "decimal": 8
-    },
-    {
         "name": "ZRX",
         "address": "0xe41d2489571d322189246dafa5ebde1f4699f498",
         "decimal": 18
+    },
+    {
+        "name": "MEDX TOKEN",
+        "address": "0xfd1e80508f243e64ce234ea88a5fd2827c71d4b7",
+        "decimal": 8
     },
     {
         "name": "IOSToken",
@@ -4085,13 +4085,13 @@
         "decimal": 18
     },
     {
-        "name": "NXM",
-        "address": "0xd7c49cee7e9188cca6ad8ff264c1da2e69d4cf3b",
+        "name": "dYdX",
+        "address": "0x92d6c1e31e14520e676a687f0a93788b716beff5",
         "decimal": 18
     },
     {
-        "name": "dYdX",
-        "address": "0x92d6c1e31e14520e676a687f0a93788b716beff5",
+        "name": "NXM",
+        "address": "0xd7c49cee7e9188cca6ad8ff264c1da2e69d4cf3b",
         "decimal": 18
     },
     {
@@ -4100,23 +4100,18 @@
         "decimal": 2
     },
     {
-        "name": "KuCoin Token",
-        "address": "0xf34960d9d60be18cc1d5afc1a6f012a723a28811",
-        "decimal": 6
-    },
-    {
         "name": "Zilliqa",
         "address": "0x05f4a42e251f2d52b8ed15e9fedaacfcef1fad27",
         "decimal": 12
     },
     {
-        "name": "yearn.finance",
-        "address": "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e",
-        "decimal": 18
+        "name": "KuCoin Token",
+        "address": "0xf34960d9d60be18cc1d5afc1a6f012a723a28811",
+        "decimal": 6
     },
     {
-        "name": "TrueUSD",
-        "address": "0x0000000000085d4780B73119b644AE5ecd22b376",
+        "name": "yearn.finance",
+        "address": "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e",
         "decimal": 18
     },
     {
@@ -4127,6 +4122,11 @@
     {
         "name": "WQtum",
         "address": "0x3103df8f05c4d8af16fd22ae63e406b97fec6938",
+        "decimal": 18
+    },
+    {
+        "name": "TrueUSD",
+        "address": "0x0000000000085d4780B73119b644AE5ecd22b376",
         "decimal": 18
     },
     {
@@ -4150,6 +4150,11 @@
         "decimal": 18
     },
     {
+        "name": "EnjinCoin",
+        "address": "0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c",
+        "decimal": 18
+    },
+    {
         "name": "HoloToken",
         "address": "0x6c6ee5e31d828de241282b9606c8e98ea48526e2",
         "decimal": 18
@@ -4157,11 +4162,6 @@
     {
         "name": "Synthetix Network Token",
         "address": "0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f",
-        "decimal": 18
-    },
-    {
-        "name": "EnjinCoin",
-        "address": "0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c",
         "decimal": 18
     },
     {
@@ -4185,14 +4185,14 @@
         "decimal": 18
     },
     {
-        "name": "Celsius",
-        "address": "0xaaaebe6fe48e54f431b0c390cfaf0b017d09d42d",
-        "decimal": 4
-    },
-    {
         "name": "SushiToken",
         "address": "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2",
         "decimal": 18
+    },
+    {
+        "name": "Celsius",
+        "address": "0xaaaebe6fe48e54f431b0c390cfaf0b017d09d42d",
+        "decimal": 4
     },
     {
         "name": "Wrapped Celo",
@@ -4280,13 +4280,13 @@
         "decimal": 18
     },
     {
-        "name": "Fantom Token",
-        "address": "0x4e15361fd6b4bb609fa63c81a2be19d873717870",
+        "name": "OKB",
+        "address": "0x75231f58b43240c9718dd58b4967c5114342a86c",
         "decimal": 18
     },
     {
-        "name": "OKB",
-        "address": "0x75231f58b43240c9718dd58b4967c5114342a86c",
+        "name": "Fantom Token",
+        "address": "0x4e15361fd6b4bb609fa63c81a2be19d873717870",
         "decimal": 18
     },
     {
@@ -4295,13 +4295,13 @@
         "decimal": 6
     },
     {
-        "name": "Dai Stablecoin",
-        "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+        "name": "Wrapped Filecoin",
+        "address": "0x6e1A19F235bE7ED8E3369eF73b196C07257494DE",
         "decimal": 18
     },
     {
-        "name": "Wrapped Filecoin",
-        "address": "0x6e1A19F235bE7ED8E3369eF73b196C07257494DE",
+        "name": "Dai Stablecoin",
+        "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
         "decimal": 18
     },
     {
