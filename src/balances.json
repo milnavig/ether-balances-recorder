@@ -1,0 +1,49 @@
+{
+    "timestamp": 1635077446718,
+    "data": [
+        {
+            "token": "Tether USD",
+            "balance": 209103.905658
+        },
+        {
+            "token": "USD Coin",
+            "balance": 150000
+        },
+        {
+            "token": "Ether",
+            "balance": 156.3283788650611
+        },
+        {
+            "token": "HEX",
+            "balance": 100
+        },
+        {
+            "token": "GSENetwork",
+            "balance": 92
+        },
+        {
+            "token": "CarLive Chain",
+            "balance": 10
+        },
+        {
+            "token": "OCoin",
+            "balance": 5
+        },
+        {
+            "token": "LoopringCoin V2",
+            "balance": 5
+        },
+        {
+            "token": "Livepeer Token",
+            "balance": 2.0644599685228
+        },
+        {
+            "token": "Sai Stablecoin v1.0",
+            "balance": 1.1
+        },
+        {
+            "token": "Amber",
+            "balance": 0.1
+        }
+    ]
+}
